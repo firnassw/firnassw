@@ -87,7 +87,19 @@ For me, every project is a chance to try a new approach, find what doesn't work,
 
 ---
 
-# 📊 GitHub Stats: ![](https://github-readme-stats.shion.dev/api?username=firnassw&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/> ![](https://streak-stats.demolab.com/?user=firnassw&theme=default&hide_border=true)<br/> ![](https://github-readme-stats.shion.dev/api/top-langs/?username=firnassw&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Stats
+
+<img align="left" src="https://github-readme-stats.shion.dev/api?username=firnassw&theme=default&hide_border=true&include_all_commits=false&count_private=false">
+
+<br clear="left">
+
+<img align="left" src="https://streak-stats.demolab.com/?user=firnassw&theme=default&hide_border=true">
+
+<br clear="left">
+
+<img align="left" src="https://github-readme-stats.shion.dev/api/top-langs/?username=firnassw&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
+
+<br clear="left">
 
 ---
 
