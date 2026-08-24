@@ -1,59 +1,160 @@
-<div align="center">
+# 👋 Hi, I'm Wahid
 
-# Wahid
+🎓 **Information Systems Student**
+💻 Exploring **Technology, Digital Products & Business**
+🌱 Learning by building, experimenting, and improving.
 
-**Information Systems Student — UPN "Veteran" Yogyakarta**
+---
 
-Building at the intersection of technology, design, and business.
+## 💫 About Me
 
-</div>
+I'm an **Information Systems student** who enjoys exploring how technology can be turned into useful and meaningful solutions.
 
-<br>
+I'm currently exploring **UI/UX Design, Front-End Development, and Business Analysis**. I enjoy working on projects where technology, design, and business come together to solve real problems.
 
-## About
+I'm still learning and figuring out which direction fits me best. I like trying new things, building projects, and improving my skills step by step.
 
-I'm an Information Systems student who likes turning half-formed ideas into things people can actually use. Most of my time goes into team-based competition projects and university coursework, where I usually end up owning the business documentation, product design, and technical build in equal parts.
+> **Still learning. Still building. Still figuring things out.**
 
-Right now I'm splitting my focus between UI/UX design, front-end development, and business analysis — figuring out which one to go deeper on by shipping projects rather than just reading about them.
+---
 
-## Currently
+## 🎯 What I'm Interested In
 
-- Building **TrueAttribute**, an AI-powered employability assessment platform, for the STRATEGIA and Business Plan Competition (BPC) 2026 tracks at YMC UPN
-- Refining a scoring methodology grounded in SKKNI, BNSP, KKNI, O*NET, SFIA, and WEF frameworks across nine job roles
-- Reworking the front-end and content of my personal portfolio
+* 🎨 **UI/UX Design**
+* 💻 **Web Development**
+* 📊 **System & Business Analysis**
+* 🤖 **AI & Digital Products**
+* 💡 **Technology & Business**
 
-## Tech Stack
+---
 
-| Area | Tools |
-|---|---|
-| Front-End | HTML5, CSS3, JavaScript, Bootstrap |
-| Back-End & Database | PHP, Laravel, REST API, MySQL, SQL |
-| Data & Automation | Power BI, Power Automate, Power Apps, Excel |
-| Design & Workflow | Figma, Git, GitHub, VS Code, Postman |
+## 🛠️ Tech Stack
 
-## Featured Projects
+### 💻 Web Development
 
-**[TrueAttribute](#)**
-AI-powered platform that assesses student employability from real portfolio evidence — GitHub repositories and Figma work — instead of a CV. Generates a Candidate Readiness Card with a tiering system from Foundation to Market Ready.
-`Figma` `UI/UX Design` `Product Strategy`
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge\&logo=fastapi\&logoColor=white)
 
-**[KostCare](#)**
-Health and finance management platform for students living in boarding houses. Tracks stamina, logs expenses, monitors nutrition, and connects to a parent dashboard in real time, with an SOS feature for emergencies.
-`HTML5` `CSS3` `JavaScript` `PHP Native` `MySQL`
+### 🗄️ Database & Data
 
-**[MedikaLab](#)**
-Web-based laboratory information system for managing patient queues, specimen tracking, and lab results.
-`HTML5` `CSS3` `PHP Native` `MySQL` `SQL`
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
 
-**[Personal Portfolio](#)**
-Personal site showcasing my projects, current focus, and design work.
-`UI/UX` `Front-End`
+### ⚙️ Automation & Tools
 
-## Let's Connect
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge\&logo=powerautomate\&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge\&logo=powerapps\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+
+### 🎨 Design
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 TrueAttribute
+
+An AI-powered talent platform focused on helping students understand their career readiness through portfolio assessment, skill gap analysis, and progression.
+
+**Focus:** AI · Product · Business · Career Readiness
+
+---
+
+### 🏠 KostCare
+
+A student-focused platform for managing personal health and finances, with a dashboard that helps students monitor their condition, track expenses, and stay connected with their parents.
+
+**Tech:** HTML5 · CSS3 · JavaScript · PHP · MySQL · Bootstrap · Chart.js
+
+---
+
+### 🧪 MedikaLab
+
+A web-based laboratory information system designed to manage patient data, examination queues, and laboratory results in one platform.
+
+**Tech:** HTML5 · CSS3 · PHP · MySQL · SQL
+
+---
+
+## 🌱 Currently Learning
+
+I'm currently focusing on improving my understanding of:
+
+* Front-End Development
+* UI/UX Design
+* Business Analysis
+* Product Thinking
+* AI & Digital Products
+
+I'm focusing on building a strong foundation and learning through real projects rather than trying to master everything at once.
+
+---
+
+## 🧠 How I Like to Learn
+
+**Learn → Build → Experiment → Improve**
+
+I enjoy learning by actually working on something.
+
+For me, every project is a chance to try a new approach, find what doesn't work, and improve it.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=firnassw&theme=default&hide_border=true&include_all_commits=false&count_private=false" height="165"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=firnassw&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=firnassw&theme=default&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 Portfolio
+
+Want to see more about me, my projects, certificates, and experience?
+
+**[Visit My Portfolio →](YOUR_PORTFOLIO_URL)**
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to learning from others, discussing ideas, collaborating on projects, or simply having a conversation about technology and digital products.
 
 <p align="left">
-<a href="https://github.com/USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:you@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+  <a href="YOUR_INSTAGRAM_URL">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Learning, building, and figuring things out one project at a time.</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=firnassw&icon=0&color=0" alt="Profile views"/>
 </p>
