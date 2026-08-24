@@ -62,31 +62,6 @@ I'm still learning and figuring out which direction fits me best. I like trying 
 
 ---
 
-## 🚀 Featured Projects
-
-### 🤖 TrueAttribute
-
-An AI-powered talent platform focused on helping students understand their career readiness through portfolio assessment, skill gap analysis, and progression.
-
-**Focus:** AI · Product · Business · Career Readiness
-
----
-
-### 🏠 KostCare
-
-A student-focused platform for managing personal health and finances, with a dashboard that helps students monitor their condition, track expenses, and stay connected with their parents.
-
-**Tech:** HTML5 · CSS3 · JavaScript · PHP · MySQL · Bootstrap · Chart.js
-
----
-
-### 🧪 MedikaLab
-
-A web-based laboratory information system designed to manage patient data, examination queues, and laboratory results in one platform.
-
-**Tech:** HTML5 · CSS3 · PHP · MySQL · SQL
-
----
 
 ## 🌱 Currently Learning
 
@@ -112,16 +87,7 @@ For me, every project is a chance to try a new approach, find what doesn't work,
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=firnassw&theme=default&hide_border=true&include_all_commits=false&count_private=false" height="165"/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=firnassw&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=firnassw&theme=default&hide_border=true"/>
-</p>
+# 📊 GitHub Stats: ![](https://github-readme-stats.shion.dev/api?username=firnassw&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/> ![](https://streak-stats.demolab.com/?user=firnassw&theme=default&hide_border=true)<br/> ![](https://github-readme-stats.shion.dev/api/top-langs/?username=firnassw&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
