@@ -6,11 +6,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=700&lines=Information+Systems+Student;Exploring+UI%2FUX+%26+Web+Development;Learning+Business+%26+System+Analysis;Building+Digital+Products;Still+Learning.+Still+Building." alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
 <a href="YOUR_PORTFOLIO_URL">
 <img src="https://img.shields.io/badge/Portfolio-Visit-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
+
 <a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -19,7 +20,10 @@
 
 ---
 
-## 👋 About Me
+<h2>
+<img src="https://img.icons8.com/fluency-systems-filled/28/1F6FEB/user.png" width="24"/>
+About Me
+</h2>
 
 Hi! I'm **Wahid**, an **Information Systems student** interested in the intersection of **technology, design, and business**.
 
@@ -27,11 +31,11 @@ I enjoy turning ideas into useful digital solutions — whether that's designing
 
 I'm currently exploring:
 
-* 🎨 **UI/UX Design**
-* 💻 **Front-End Development**
-* 📊 **System & Business Analysis**
-* 🤖 **AI & Digital Products**
-* 🚀 **Product Thinking**
+- **UI/UX Design**
+- **Front-End Development**
+- **System & Business Analysis**
+- **AI & Digital Products**
+- **Product Thinking**
 
 I'm not trying to master everything at once.
 
@@ -41,13 +45,19 @@ I'm focused on **learning through real projects, experimenting with ideas, and i
 
 ---
 
-## 🧭 What I'm Exploring
+<h2>
+<img src="https://img.icons8.com/fluency-systems-filled/28/1F6FEB/compass.png" width="24"/>
+What I'm Exploring
+</h2>
 
 <table>
 <tr>
 <td width="50%">
 
-### 🎨 Design
+<h3>
+<img src="https://img.icons8.com/fluency-systems-filled/22/1F6FEB/design.png" width="20"/>
+Design
+</h3>
 
 Creating interfaces that are simple, intuitive, and useful.
 
@@ -57,7 +67,10 @@ Creating interfaces that are simple, intuitive, and useful.
 
 <td width="50%">
 
-### 💻 Development
+<h3>
+<img src="https://img.icons8.com/fluency-systems-filled/22/1F6FEB/code.png" width="20"/>
+Development
+</h3>
 
 Building web applications and learning how things work behind the interface.
 
@@ -69,7 +82,10 @@ Building web applications and learning how things work behind the interface.
 <tr>
 <td width="50%">
 
-### 📊 Analysis
+<h3>
+<img src="https://img.icons8.com/fluency-systems-filled/22/1F6FEB/combo-chart.png" width="20"/>
+Analysis
+</h3>
 
 Understanding problems before jumping into solutions.
 
@@ -79,7 +95,10 @@ Understanding problems before jumping into solutions.
 
 <td width="50%">
 
-### 🤖 Digital Products
+<h3>
+<img src="https://img.icons8.com/fluency-systems-filled/22/1F6FEB/artificial-intelligence.png" width="20"/>
+Digital Products
+</h3>
 
 Exploring how technology and AI can become meaningful products.
 
@@ -91,7 +110,10 @@ Exploring how technology and AI can become meaningful products.
 
 ---
 
-## 🛠️ Tech Stack
+<h2>
+<img src="https://img.icons8.com/fluency-systems-filled/28/1F6FEB/tools.png" width="24"/>
+Tech Stack
+</h2>
 
 <div align="center">
 
@@ -132,9 +154,13 @@ Exploring how technology and AI can become meaningful products.
 </p>
 
 </div>
+
 ---
 
-## 🌱 Currently Learning
+<h2>
+<img src="https://img.icons8.com/fluency-systems-filled/28/1F6FEB/learning.png" width="24"/>
+Currently Learning
+</h2>
 
 ```text
 UI/UX Design          █████████░░  Exploring
@@ -142,110 +168,3 @@ Front-End Development ████████░░░  Building
 Business Analysis     ███████░░░░  Learning
 Product Thinking      ███████░░░░  Exploring
 AI & Digital Products ██████░░░░░  Experimenting
-```
-
-My current learning approach is simple:
-
-**Learn → Build → Experiment → Improve**
-
-Instead of only consuming tutorials, I try to turn what I learn into something tangible.
-
----
-
-## 🚀 Projects
-
-<div align="center">
-
-### Building ideas into something real.
-
-</div>
-
-I'm especially interested in projects that combine:
-
-**Technology + Design + Business**
-
-Some of the things I enjoy building and exploring:
-
-* 🌐 Web applications
-* 🎨 UI/UX prototypes
-* 📊 Business & system analysis
-* 🤖 AI-powered ideas
-* 💡 Digital product concepts
-
-> Every project doesn't have to be perfect.
-> It just needs to teach me something.
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<a href="https://github.com/firnassw">
-  <img
-    height="180"
-    src="https://github-readme-stats.shion.dev/api?username=firnassw&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"
-    alt="Wahid's GitHub Stats"
-  />
-</a>
-
-<a href="https://github.com/firnassw">
-  <img
-    height="180"
-    src="https://github-readme-stats.shion.dev/api/top-langs/?username=firnassw&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
-    alt="Wahid's Top Languages"
-  />
-</a>
-
-</div>
----
-
-## 🐍 Contribution Journey
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/firnassw/firnassw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-## 🌐 Find Me
-
-<div align="center">
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="YOUR_INSTAGRAM_URL">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 A little reminder
-
-**Learn something. Build something. Break something. Improve it.**
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=firnassw&style=flat-square&color=1F6FEB&label=Profile+Views"/>
-
-<br/><br/>
-
-<i>Learning, building, and figuring things out one project at a time.</i>
-
-</div>
-
-<!-- ===================== FOOTER ===================== -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=120&section=footer" width="100%"/>
