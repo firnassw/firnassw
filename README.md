@@ -168,3 +168,78 @@ Front-End Development ████████░░░  Building
 Business Analysis     ███████░░░░  Learning
 Product Thinking      ███████░░░░  Exploring
 AI & Digital Products ██████░░░░░  Experimenting
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<a href="https://github.com/firnassw">
+  <img
+    height="180"
+    src="https://github-readme-stats.shion.dev/api?username=firnassw&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"
+    alt="Wahid's GitHub Stats"
+  />
+</a>
+
+<a href="https://github.com/firnassw">
+  <img
+    height="180"
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=firnassw&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+    alt="Wahid's Top Languages"
+  />
+</a>
+
+</div>
+---
+
+## 🐍 Contribution Journey
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/firnassw/firnassw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+## 🌐 Find Me
+
+<div align="center">
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_INSTAGRAM_URL">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 A little reminder
+
+**Learn something. Build something. Break something. Improve it.**
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=firnassw&style=flat-square&color=1F6FEB&label=Profile+Views"/>
+
+<br/><br/>
+
+<i>Learning, building, and figuring things out one project at a time.</i>
+
+</div>
+
+<!-- ===================== FOOTER ===================== -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=120&section=footer" width="100%"/>
