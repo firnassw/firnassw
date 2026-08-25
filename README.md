@@ -104,16 +104,7 @@ I'm currently exploring **UI/UX Design, Front-End Development, System & Business
 
 <br/>
 
-## 🚀 Latest Projects
 
-
-<!-- PROJECTS:START -->
-- 🚀 [repository-1](https://github.com/firnassw/repository-1) — ...
-- 🚀 [repository-2](https://github.com/firnassw/repository-2) — ...
-- 🚀 [repository-3](https://github.com/firnassw/repository-3) — ...
-<!-- PROJECTS:END -->
-
-<!-- ===================== FOOTER ===================== -->
 
 <div align="center">
 
