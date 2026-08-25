@@ -2,24 +2,19 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0B57D0,100:8B5CF6&height=180&section=header&text=Hi,%20I'm%20Wahid%20Firnas&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45&desc=Information%20Systems%20Student%20%7C%20Web%20Developer&descAlignY=68&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B57D0,100:8B5CF6&height=220&section=header&text=Wahid%20Firnas&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Information%20Systems%20Student%20%7C%20Builder%20%7C%20Explorer&descAlignY=58&descSize=18" width="100%"/>
+
+<!-- Durasi 5000ms dan pause 2000ms -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=5000&pause=2000&color=0B57D0&center=true&vCenter=true&width=700&lines=Information+Systems+Student;Exploring+UI%2FUX+%26+Web+Development;Learning+Business+%26+System+Analysis;Building+Digital+Products;Still+Learning.+Still+Building." alt="Typing SVG"/>
 
 <br/><br/>
 
-<!-- Social & Badge Links -->
-<a href="mailto:firnaswahid@gmail.com">
-<img src="https://img.shields.io/badge/Email-firnaswahid%40gmail.com-0B57D0?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-Visit-0B57D0?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/wahid-firnas/">
-<img src="https://img.shields.io/badge/LinkedIn-wahid--firnas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/firnassw">
-<img src="https://img.shields.io/badge/GitHub-firnassw-171923?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/firnassw/">
-<img src="https://img.shields.io/badge/Instagram-firnassw-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=firnassw&style=for-the-badge&color=8B5CF6&label=Profile+Views" alt="Profile Views"/>
 
 </div>
 
@@ -29,9 +24,16 @@
 
 <!-- ===================== ABOUT ===================== -->
 
-Hi! I'm **Wahid Firnas**, an Information Systems student with a strong interest in the intersection of technology, design, and business. 
+<h2>
+<img src="https://api.iconify.design/lucide:user.svg?color=%230B57D0" width="28" height="28" valign="middle" />
+&nbsp;About Me
+</h2>
 
-I enjoy turning ideas into useful digital solutions — from designing intuitive user interfaces and building functional web applications to analyzing systems and exploring how technology can solve real-world problems. I'm focused on learning through hands-up projects, experimenting with ideas, and improving one step at a time.
+Hi! I'm **Wahid**, an **Information Systems student** interested in the intersection of **technology, design, and business**.
+
+I enjoy turning ideas into useful digital solutions — from designing interfaces and building web applications to analyzing systems and exploring how technology can solve real-world problems.
+
+I'm currently exploring **UI/UX Design, Front-End Development, System & Business Analysis, AI & Digital Products,** and **Product Thinking**. I'm focused on learning through real projects, experimenting with ideas, and improving one step at a time.
 
 > **Still learning. Still building. Still figuring things out.**
 
@@ -148,14 +150,44 @@ Exploring AI-powered ideas and digital products that solve real problems.
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B57D0,100:8B5CF6&height=2" width="100%"/>
 <br/>
 
+<!-- ===================== FIND ME ===================== -->
+
+<h2>
+<img src="https://api.iconify.design/lucide:send.svg?color=%230B57D0" width="28" height="28" valign="middle" />
+&nbsp;Let's Connect
+</h2>
+
+<div align="center">
+
+<a href="mailto:firnaswahid@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-0B57D0?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/firnassw">
+<img src="https://img.shields.io/badge/GitHub-Profile-171923?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/wahid-firnas/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/firnassw/">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
 <!-- ===================== FOOTER ===================== -->
 
 <div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=firnassw&style=flat-square&color=0B57D0&label=Profile+Views" alt="Profile Views"/>
+
+<br/><br/>
 
 <i>Learning, building, and figuring things out one project at a time.</i>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:0B57D0&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:0B57D0&height=120&section=footer" width="100%"/>
 
 </div>
