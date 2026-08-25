@@ -4,7 +4,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B57D0,100:8B5CF6&height=220&section=header&text=Wahid%20Firnas&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Information%20Systems%20Student%20%7C%20Builder%20%7C%20Explorer&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0B57D0&center=true&vCenter=true&width=700&lines=Information+Systems+Student;Exploring+UI%2FUX+%26+Web+Development;Learning+Business+%26+System+Analysis;Building+Digital+Products;Still+Learning.+Still+Building." alt="Typing SVG"/>
+<!-- Durasi diubah menjadi 5000ms dan pause menjadi 2000ms -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=5000&pause=2000&color=0B57D0&center=true&vCenter=true&width=700&lines=Information+Systems+Student;Exploring+UI%2FUX+%26+Web+Development;Learning+Business+%26+System+Analysis;Building+Digital+Products;Still+Learning.+Still+Building." alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -17,7 +18,9 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B57D0,100:8B5CF6&height=2" width="100%"/>
+<br/>
 
 <!-- ===================== ABOUT ===================== -->
 
@@ -42,7 +45,9 @@ I'm focused on learning through real projects, experimenting with ideas, and imp
 
 > **Still learning. Still building. Still figuring things out.**
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B57D0,100:8B5CF6&height=2" width="100%"/>
+<br/>
 
 <!-- ===================== EXPLORING ===================== -->
 
@@ -84,7 +89,9 @@ Exploring how technology and AI can become meaningful products.<br/><br/>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B57D0,100:8B5CF6&height=2" width="100%"/>
+<br/>
 
 <!-- ===================== TECH STACK ===================== -->
 
@@ -109,7 +116,9 @@ Exploring how technology and AI can become meaningful products.<br/><br/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B57D0,100:8B5CF6&height=2" width="100%"/>
+<br/>
 
 <!-- ===================== CURRENTLY LEARNING ===================== -->
 
@@ -157,7 +166,9 @@ Exploring how technology and AI can become meaningful products.<br/><br/>
 <b>Learn → Build → Experiment → Improve</b>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B57D0,100:8B5CF6&height=2" width="100%"/>
+<br/>
 
 <!-- ===================== PROJECTS ===================== -->
 
@@ -196,7 +207,9 @@ Exploring AI-powered ideas and digital products that solve real problems.
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B57D0,100:8B5CF6&height=2" width="100%"/>
+<br/>
 
 <!-- ===================== GITHUB ACTIVITY ===================== -->
 
@@ -226,7 +239,9 @@ Exploring AI-powered ideas and digital products that solve real problems.
 <img src="https://raw.githubusercontent.com/firnassw/firnassw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B57D0,100:8B5CF6&height=2" width="100%"/>
+<br/>
 
 <!-- ===================== FIND ME ===================== -->
 
