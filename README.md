@@ -378,8 +378,6 @@ alt="Wahid's Top Languages"
 
 </div>
 
-<br/>
-
 <div align="center">
 
 <img
