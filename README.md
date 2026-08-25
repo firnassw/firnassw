@@ -1,24 +1,14 @@
 <!-- ===================== HEADER ===================== -->
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B57D0,100:8B5CF6&height=220&section=header&text=Wahid%20Firnas&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Information%20Systems%20Student%20%7C%20Builder%20%7C%20Explorer&descAlignY=58&descSize=18" width="100%"/>
-
-<!-- Durasi 5000ms dan pause 2000ms -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=5000&pause=2000&color=0B57D0&center=true&vCenter=true&width=700&lines=Information+Systems+Student;Exploring+UI%2FUX+%26+Web+Development;Learning+Business+%26+System+Analysis;Building+Digital+Products;Still+Learning.+Still+Building." alt="Typing SVG"/>
 
-<br/><br/>
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-Visit-0B57D0?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/wahid-firnas/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
+<br/>
+<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Visit-0B57D0?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/wahid-firnas/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
-<br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B57D0,100:8B5CF6&height=2" width="100%"/>
 <br/>
 
@@ -49,19 +39,12 @@ I'm currently exploring **UI/UX Design, Front-End Development, System & Business
 </h2>
 
 <div align="center">
-
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,laravel,mysql,postgres" />
-  </a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,laravel,mysql,postgres" /></a>
 </p>
-
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
-  </a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" /></a>
 </p>
-
 </div>
 
 <br/>
@@ -76,7 +59,6 @@ I'm currently exploring **UI/UX Design, Front-End Development, System & Business
 </h2>
 
 <div align="center">
-
 <p align="center">
 <a href="https://github.com/firnassw"><img height="110" src="https://github-readme-stats.shion.dev/api?username=firnassw&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=0B57D0&text_color=4B5563&icon_color=8B5CF6" alt="Wahid's GitHub Stats"/></a><a href="https://github.com/firnassw"><img height="110" src="https://github-readme-stats.shion.dev/api/top-langs/?username=firnassw&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=0B57D0&text_color=4B5563&icon_color=8B5CF6" alt="Wahid's Top Languages"/></a><a href="https://github.com/firnassw"><img height="110" src="https://streak-stats.demolab.com/?user=firnassw&theme=transparent&hide_border=true&ring=0B57D0&fire=8B5CF6&currStreakLabel=0B57D0&sideLabels=4B5563&dates=6B7280" alt="Wahid's GitHub Streak"/></a>
 </p>
@@ -84,7 +66,6 @@ I'm currently exploring **UI/UX Design, Front-End Development, System & Business
 <br/>
 
 <img src="https://raw.githubusercontent.com/firnassw/firnassw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%"/>
-
 </div>
 
 <br/>
@@ -99,20 +80,10 @@ I'm currently exploring **UI/UX Design, Front-End Development, System & Business
 </h2>
 
 <div align="center">
-
-<a href="mailto:firnaswahid@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-0B57D0?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/firnassw">
-<img src="https://img.shields.io/badge/GitHub-Profile-171923?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/wahid-firnas/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/firnassw/">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
+<a href="mailto:firnaswahid@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0B57D0?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/firnassw"><img src="https://img.shields.io/badge/GitHub-Profile-171923?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/wahid-firnas/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/firnassw/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
 
 <br/>
