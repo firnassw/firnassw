@@ -220,11 +220,11 @@ Exploring AI-powered ideas and digital products that solve real problems.
 
 <div align="center">
 
-<a href="https://github.com/firnassw"><img height="135" src="https://github-readme-stats.shion.dev/api?username=firnassw&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=0B57D0&text_color=4B5563&icon_color=8B5CF6" alt="Wahid's GitHub Stats"/></a>
-<a href="https://github.com/firnassw"><img height="135" src="https://github-readme-stats.shion.dev/api/top-langs/?username=firnassw&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=0B57D0&text_color=4B5563&icon_color=8B5CF6" alt="Wahid's Top Languages"/></a>
-<a href="https://github.com/firnassw"><img height="135" src="https://streak-stats.demolab.com/?user=firnassw&theme=transparent&hide_border=true&ring=0B57D0&fire=8B5CF6&currStreakLabel=0B57D0&sideLabels=4B5563&dates=6B7280" alt="Wahid's GitHub Streak"/></a>
+<p align="center">
+<a href="https://github.com/firnassw"><img height="110" src="https://github-readme-stats.shion.dev/api?username=firnassw&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=0B57D0&text_color=4B5563&icon_color=8B5CF6" alt="Wahid's GitHub Stats"/></a><a href="https://github.com/firnassw"><img height="110" src="https://github-readme-stats.shion.dev/api/top-langs/?username=firnassw&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=0B57D0&text_color=4B5563&icon_color=8B5CF6" alt="Wahid's Top Languages"/></a><a href="https://github.com/firnassw"><img height="110" src="https://streak-stats.demolab.com/?user=firnassw&theme=transparent&hide_border=true&ring=0B57D0&fire=8B5CF6&currStreakLabel=0B57D0&sideLabels=4B5563&dates=6B7280" alt="Wahid's GitHub Streak"/></a>
+</p>
 
-<br/><br/>
+<br/>
 
 <img src="https://raw.githubusercontent.com/firnassw/firnassw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%"/>
 
