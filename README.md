@@ -29,8 +29,6 @@ I'm currently exploring **UI/UX Design, Front-End Development, System & Business
 > **Still learning. Still building. Still figuring things out.**
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B57D0,100:8B5CF6&height=2" width="100%"/>
-<br/>
 
 <!-- ===================== TECH STACK ===================== -->
 
@@ -48,8 +46,6 @@ I'm currently exploring **UI/UX Design, Front-End Development, System & Business
 </p>
 </div>
 
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B57D0,100:8B5CF6&height=2" width="100%"/>
 <br/>
 
 <!-- ===================== GITHUB ACTIVITY ===================== -->
@@ -69,8 +65,6 @@ I'm currently exploring **UI/UX Design, Front-End Development, System & Business
 <img src="https://raw.githubusercontent.com/firnassw/firnassw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%"/>
 </div>
 
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B57D0,100:8B5CF6&height=2" width="100%"/>
 <br/>
 
 <!-- ===================== FIND ME ===================== -->
