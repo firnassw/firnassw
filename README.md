@@ -166,19 +166,36 @@ Some of the things I enjoy building and exploring:
 
 ---
 
-# 📊 GitHub Activity
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=firnassw&theme=transparent&hide_border=true&include_all_commits=false&count_private=false" height="170"/>
+<a href="https://github.com/firnassw">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=firnassw&show_icons=true&hide_border=true&include_all_commits=false&count_private=false&rank_icon=github" />
+</a>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=firnassw&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="170"/>
+<a href="https://github.com/firnassw">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firnassw&layout=compact&hide_border=true&langs_count=6" />
+</a>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=firnassw&theme=transparent&hide_border=true" />
+<a href="https://github.com/firnassw">
+  <img src="https://streak-stats.demolab.com/?user=firnassw&hide_border=true" />
+</a>
 
 </div>
+
+---
+
+## 🐍 Contribution Journey
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/firnassw/firnassw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%"/>
+
+</div>
+
 
 ---
 
