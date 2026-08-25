@@ -1,3 +1,4 @@
+```html
 <!-- ===================== HEADER ===================== -->
 
 <div align="center">
@@ -23,8 +24,8 @@
 <!-- ===================== ABOUT ===================== -->
 
 <h2>
-<img src="https://img.icons8.com/fluency-systems-filled/28/0B57D0/user.png" width="24"/>
-About Me
+<img src="https://api.iconify.design/lucide:user.svg?color=%230B57D0" width="24" height="24" valign="middle"/>
+&nbsp;About Me
 </h2>
 
 Hi! I'm **Wahid**, an **Information Systems student** interested in the intersection of **technology, design, and business**.
@@ -48,8 +49,8 @@ I'm focused on learning through real projects, experimenting with ideas, and imp
 <!-- ===================== EXPLORING ===================== -->
 
 <h2>
-<img src="https://img.icons8.com/fluency-systems-filled/28/0B57D0/compass.png" width="24"/>
-What I'm Exploring
+<img src="https://api.iconify.design/lucide:compass.svg?color=%230B57D0" width="24" height="24" valign="middle"/>
+&nbsp;What I'm Exploring
 </h2>
 
 <table>
@@ -58,8 +59,8 @@ What I'm Exploring
 <td width="50%">
 
 <h3>
-<img src="https://img.icons8.com/fluency-systems-filled/22/0B57D0/design.png" width="20"/>
-Design
+<img src="https://api.iconify.design/lucide:palette.svg?color=%230B57D0" width="20" height="20" valign="middle"/>
+&nbsp;Design
 </h3>
 
 Creating interfaces that are simple, intuitive, and useful.
@@ -71,8 +72,8 @@ Creating interfaces that are simple, intuitive, and useful.
 <td width="50%">
 
 <h3>
-<img src="https://img.icons8.com/fluency-systems-filled/22/0B57D0/code.png" width="20"/>
-Development
+<img src="https://api.iconify.design/lucide:code-2.svg?color=%230B57D0" width="20" height="20" valign="middle"/>
+&nbsp;Development
 </h3>
 
 Building web applications and learning how things work behind the interface.
@@ -88,8 +89,8 @@ Building web applications and learning how things work behind the interface.
 <td width="50%">
 
 <h3>
-<img src="https://img.icons8.com/fluency-systems-filled/22/0B57D0/combo-chart.png" width="20"/>
-Analysis
+<img src="https://api.iconify.design/lucide:chart-no-axes-combined.svg?color=%230B57D0" width="20" height="20" valign="middle"/>
+&nbsp;Analysis
 </h3>
 
 Understanding problems before jumping into solutions.
@@ -101,8 +102,8 @@ Understanding problems before jumping into solutions.
 <td width="50%">
 
 <h3>
-<img src="https://img.icons8.com/fluency-systems-filled/22/0B57D0/artificial-intelligence.png" width="20"/>
-Digital Products
+<img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%230B57D0" width="20" height="20" valign="middle"/>
+&nbsp;Digital Products
 </h3>
 
 Exploring how technology and AI can become meaningful products.
@@ -119,11 +120,13 @@ Exploring how technology and AI can become meaningful products.
 <!-- ===================== TECH STACK ===================== -->
 
 <h2>
-<img src="https://cdn.simpleicons.org/devicon/0B57D0" width="24"/>
-Creative & Tech Stack
+<img src="https://api.iconify.design/lucide:wrench.svg?color=%230B57D0" width="24" height="24" valign="middle"/>
+&nbsp;Creative & Tech Stack
 </h2>
 
 <div align="center">
+
+<!-- ROW 1 -->
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="44" alt="HTML5"/>
@@ -150,7 +153,15 @@ Creative & Tech Stack
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="44" alt="PostgreSQL"/>
 </p>
 
+<!-- ROW 2 -->
+
 <p>
+<img src="https://img.icons8.com/color/48/power-bi.png" width="44" alt="Power BI"/>
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="44" alt="Microsoft Excel"/>
+&nbsp;&nbsp;&nbsp;
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="44" alt="Git"/>
 &nbsp;&nbsp;&nbsp;
 
@@ -166,19 +177,7 @@ Creative & Tech Stack
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="44" alt="Figma"/>
 &nbsp;&nbsp;&nbsp;
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="44" alt="SQL Server"/>
-</p>
-
-<p>
-
-<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="44" alt="Microsoft Excel"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://img.icons8.com/color/48/power-bi.png" width="44" alt="Power BI"/>
-&nbsp;&nbsp;&nbsp;
-
 <img src="https://img.icons8.com/color/48/canva.png" width="44" alt="Canva"/>
-
 </p>
 
 </div>
@@ -188,8 +187,8 @@ Creative & Tech Stack
 <!-- ===================== CURRENTLY LEARNING ===================== -->
 
 <h2>
-<img src="https://img.icons8.com/fluency-systems-filled/28/0B57D0/learning.png" width="24"/>
-Currently Learning
+<img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%230B57D0" width="24" height="24" valign="middle"/>
+&nbsp;Currently Learning
 </h2>
 
 <table>
@@ -279,8 +278,8 @@ Learning
 <!-- ===================== PROJECTS ===================== -->
 
 <h2>
-<img src="https://img.icons8.com/fluency-systems-filled/28/0B57D0/rocket.png" width="24"/>
-Projects
+<img src="https://api.iconify.design/lucide:rocket.svg?color=%230B57D0" width="24" height="24" valign="middle"/>
+&nbsp;Projects
 </h2>
 
 <div align="center">
@@ -299,8 +298,8 @@ I'm especially interested in projects that combine:
 <td width="50%">
 
 <h3>
-<img src="https://img.icons8.com/fluency-systems-filled/22/0B57D0/code.png" width="20"/>
-Web Applications
+<img src="https://api.iconify.design/lucide:code-2.svg?color=%230B57D0" width="20" height="20" valign="middle"/>
+&nbsp;Web Applications
 </h3>
 
 Building functional web applications while improving my development skills.
@@ -310,8 +309,8 @@ Building functional web applications while improving my development skills.
 <td width="50%">
 
 <h3>
-<img src="https://img.icons8.com/fluency-systems-filled/22/8B5CF6/design.png" width="20"/>
-UI/UX Prototypes
+<img src="https://api.iconify.design/lucide:figma.svg?color=%238B5CF6" width="20" height="20" valign="middle"/>
+&nbsp;UI/UX Prototypes
 </h3>
 
 Designing interfaces and prototypes focused on usability and user experience.
@@ -325,8 +324,8 @@ Designing interfaces and prototypes focused on usability and user experience.
 <td width="50%">
 
 <h3>
-<img src="https://img.icons8.com/fluency-systems-filled/22/0B57D0/combo-chart.png" width="20"/>
-System & Business Analysis
+<img src="https://api.iconify.design/lucide:chart-no-axes-combined.svg?color=%230B57D0" width="20" height="20" valign="middle"/>
+&nbsp;System & Business Analysis
 </h3>
 
 Understanding problems, requirements, processes, and potential solutions.
@@ -336,8 +335,8 @@ Understanding problems, requirements, processes, and potential solutions.
 <td width="50%">
 
 <h3>
-<img src="https://img.icons8.com/fluency-systems-filled/22/8B5CF6/artificial-intelligence.png" width="20"/>
-Digital Products
+<img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%238B5CF6" width="20" height="20" valign="middle"/>
+&nbsp;Digital Products
 </h3>
 
 Exploring AI-powered ideas and digital products that solve real problems.
@@ -352,8 +351,8 @@ Exploring AI-powered ideas and digital products that solve real problems.
 <!-- ===================== GITHUB ACTIVITY ===================== -->
 
 <h2>
-<img src="https://img.icons8.com/fluency-systems-filled/28/0B57D0/github.png" width="24"/>
-GitHub Activity
+<img src="https://api.iconify.design/lucide:github.svg?color=%230B57D0" width="24" height="24" valign="middle"/>
+&nbsp;GitHub Activity
 </h2>
 
 <div align="center">
@@ -394,8 +393,8 @@ alt="Wahid's GitHub Streak"
 <!-- ===================== CONTRIBUTION SNAKE ===================== -->
 
 <h2>
-<img src="https://img.icons8.com/fluency-systems-filled/28/8B5CF6/activity-history.png" width="24"/>
-Contribution Journey
+<img src="https://api.iconify.design/lucide:activity.svg?color=%238B5CF6" width="24" height="24" valign="middle"/>
+&nbsp;Contribution Journey
 </h2>
 
 <div align="center">
@@ -412,8 +411,8 @@ alt="GitHub Contribution Snake"
 <!-- ===================== FIND ME ===================== -->
 
 <h2>
-<img src="https://img.icons8.com/fluency-systems-filled/28/0B57D0/connect.png" width="24"/>
-Let's Connect
+<img src="https://api.iconify.design/lucide:send.svg?color=%230B57D0" width="24" height="24" valign="middle"/>
+&nbsp;Let's Connect
 </h2>
 
 <div align="center">
@@ -459,3 +458,4 @@ width="100%"
 />
 
 </div>
+```
