@@ -2,286 +2,418 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B57D0,50:6D5BD0,100:8B5CF6&height=260&section=header&text=Wahid%20Atsal&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=Information%20Systems%20Student%20%7C%20Builder%20%7C%20Explorer&descAlignY=54&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B57D0,100:8B5CF6&height=220&section=header&text=Wahid%20Atsal&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Information%20Systems%20Student%20%7C%20Builder%20%7C%20Explorer&descAlignY=58&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0B57D0&center=true&vCenter=true&width=700&lines=Information+Systems+Student;Exploring+UI%2FUX+%26+Web+Development;Learning+Business+%26+System+Analysis;Building+Digital+Products;Still+Learning.+Still+Building." alt="Typing SVG"/>
 
-<br/>
+<br/><br/>
 
 <a href="YOUR_PORTFOLIO_URL">
 <img src="https://img.shields.io/badge/Portfolio-Visit-0B57D0?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/in/wahid-firnas/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:firnaswahid@gmail.com">
-<img src="https://img.shields.io/badge/Email-Say%20Hi-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=firnassw&style=for-the-badge&color=0B57D0&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/badge/Status-Open%20to%20Collab-8B5CF6?style=for-the-badge"/>
-
-<br/><br/>
-
-<!-- quick nav -->
-<a href="#about"><img src="https://img.shields.io/badge/About-171923?style=flat-square"/></a>
-<a href="#exploring"><img src="https://img.shields.io/badge/Exploring-171923?style=flat-square"/></a>
-<a href="#stack"><img src="https://img.shields.io/badge/Stack-171923?style=flat-square"/></a>
-<a href="#learning"><img src="https://img.shields.io/badge/Learning-171923?style=flat-square"/></a>
-<a href="#projects"><img src="https://img.shields.io/badge/Projects-171923?style=flat-square"/></a>
-<a href="#activity"><img src="https://img.shields.io/badge/Activity-171923?style=flat-square"/></a>
-<a href="#connect"><img src="https://img.shields.io/badge/Connect-171923?style=flat-square"/></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B57D0,100:8B5CF6&height=4" width="100%"/>
+---
 
 <!-- ===================== ABOUT ===================== -->
 
-<a name="about"></a>
-<h2 align="center">
-<img src="https://img.icons8.com/fluency-systems-filled/26/0B57D0/user.png" width="24" valign="middle"/>
-&nbsp;About Me
+<h2>
+<img src="https://img.icons8.com/fluency-systems-filled/28/0B57D0/user.png" width="24"/>
+About Me
 </h2>
-
-<table align="center" width="100%">
-<tr>
-<td width="60%" valign="top">
 
 Hi! I'm **Wahid**, an **Information Systems student** interested in the intersection of **technology, design, and business**.
 
 I enjoy turning ideas into useful digital solutions — from designing interfaces and building web applications to analyzing systems and exploring how technology can solve real-world problems.
 
+I'm currently exploring:
+
+- **UI/UX Design**
+- **Front-End Development**
+- **System & Business Analysis**
+- **AI & Digital Products**
+- **Product Thinking**
+
 I'm focused on learning through real projects, experimenting with ideas, and improving one step at a time.
 
-> *Still learning. Still building. Still figuring things out.*
+> **Still learning. Still building. Still figuring things out.**
 
-</td>
-<td width="40%" valign="top">
-
-| | |
-|---|---|
-| 🎓 **Field** | Information Systems |
-| 🎯 **Focus** | UI/UX · Web Dev · Business Analysis |
-| 🧠 **Exploring** | AI & Digital Products |
-| 📍 **Based in** | Indonesia |
-| 💬 **Ask me about** | Product thinking, prototyping |
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:0B57D0&height=4" width="100%"/>
+---
 
 <!-- ===================== EXPLORING ===================== -->
 
-<a name="exploring"></a>
-<h2 align="center">
-<img src="https://img.icons8.com/fluency-systems-filled/26/8B5CF6/compass.png" width="24" valign="middle"/>
-&nbsp;What I'm Exploring
+<h2>
+<img src="https://img.icons8.com/fluency-systems-filled/28/0B57D0/compass.png" width="24"/>
+What I'm Exploring
 </h2>
 
-<table align="center" width="100%">
+<table>
 <tr>
-<td width="50%" valign="top">
 
-### <img src="https://img.icons8.com/fluency-systems-filled/22/0B57D0/design.png" width="20" valign="middle"/> Design
+<td width="50%">
+
+<h3>
+<img src="https://img.icons8.com/fluency-systems-filled/22/0B57D0/design.png" width="20"/>
+Design
+</h3>
+
 Creating interfaces that are simple, intuitive, and useful.
 
-`UI/UX` `Figma` `Prototyping` `Design Thinking`
+**UI/UX · Figma · Prototyping · Design Thinking**
 
 </td>
-<td width="50%" valign="top">
 
-### <img src="https://img.icons8.com/fluency-systems-filled/22/8B5CF6/code.png" width="20" valign="middle"/> Development
+<td width="50%">
+
+<h3>
+<img src="https://img.icons8.com/fluency-systems-filled/22/0B57D0/code.png" width="20"/>
+Development
+</h3>
+
 Building web applications and learning how things work behind the interface.
 
-`HTML` `CSS` `JavaScript` `PHP` `Laravel`
+**HTML · CSS · JavaScript · PHP · Laravel**
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
-### <img src="https://img.icons8.com/fluency-systems-filled/22/0B57D0/combo-chart.png" width="20" valign="middle"/> Analysis
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<h3>
+<img src="https://img.icons8.com/fluency-systems-filled/22/0B57D0/combo-chart.png" width="20"/>
+Analysis
+</h3>
+
 Understanding problems before jumping into solutions.
 
-`System Analysis` `Business Analysis` `Data` `SQL`
+**System Analysis · Business Analysis · Data · SQL**
 
 </td>
-<td width="50%" valign="top">
 
-### <img src="https://img.icons8.com/fluency-systems-filled/22/8B5CF6/artificial-intelligence.png" width="20" valign="middle"/> Digital Products
+<td width="50%">
+
+<h3>
+<img src="https://img.icons8.com/fluency-systems-filled/22/0B57D0/artificial-intelligence.png" width="20"/>
+Digital Products
+</h3>
+
 Exploring how technology and AI can become meaningful products.
 
-`AI` `Product Thinking` `Automation` `Innovation`
+**AI · Product Thinking · Automation · Innovation**
 
 </td>
+
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B57D0,100:8B5CF6&height=4" width="100%"/>
+---
 
 <!-- ===================== TECH STACK ===================== -->
 
-<a name="stack"></a>
-<h2 align="center">
-<img src="https://img.icons8.com/fluency-systems-filled/26/0B57D0/tools.png" width="24" valign="middle"/>
-&nbsp;Creative & Tech Stack
+<h2>
+<img src="https://img.icons8.com/fluency-systems-filled/28/0B57D0/tools.png" width="24"/>
+Creative & Tech Stack
 </h2>
 
 <div align="center">
 
-**Languages & Frameworks**
+<!-- ROW 1 -->
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,postgres&theme=light" />
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="44" alt="HTML5"/>
+&nbsp;&nbsp;&nbsp;
 
-<br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="44" alt="CSS3"/>
+&nbsp;&nbsp;&nbsp;
 
-**Tools & Workflow**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="44" alt="JavaScript"/>
+&nbsp;&nbsp;&nbsp;
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=light" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="44" alt="Bootstrap"/>
+&nbsp;&nbsp;&nbsp;
 
-<br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="44" alt="PHP"/>
+&nbsp;&nbsp;&nbsp;
 
-**Design & Data**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="44" alt="Laravel"/>
+&nbsp;&nbsp;&nbsp;
 
-<img src="https://img.icons8.com/color/48/power-bi.png" width="40" alt="Power BI"/>&nbsp;&nbsp;
-<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="40" alt="Excel"/>&nbsp;&nbsp;
-<img src="https://img.icons8.com/color/48/canva.png" width="40" alt="Canva"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="44" alt="MySQL"/>
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="44" alt="PostgreSQL"/>
+</p>
+
+<!-- ROW 2 -->
+
+<p>
+<img src="https://img.icons8.com/color/48/power-bi.png" width="44" alt="Power BI"/>
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="44" alt="Microsoft Excel"/>
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="44" alt="Git"/>
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="44" alt="GitHub"/>
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="44" alt="VS Code"/>
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="44" alt="Postman"/>
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="44" alt="Figma"/>
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://img.icons8.com/color/48/canva.png" width="44" alt="Canva"/>
+</p>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:0B57D0&height=4" width="100%"/>
+---
 
 <!-- ===================== CURRENTLY LEARNING ===================== -->
 
-<a name="learning"></a>
-<h2 align="center">
-<img src="https://img.icons8.com/fluency-systems-filled/26/8B5CF6/learning.png" width="24" valign="middle"/>
-&nbsp;Currently Learning
+<h2>
+<img src="https://img.icons8.com/fluency-systems-filled/28/0B57D0/learning.png" width="24"/>
+Currently Learning
 </h2>
 
-<div align="center">
+<table>
+<tr>
 
-| Skill | Progress |
-|---|---|
-| UI/UX Design | ![](https://progress-bar.dev/75/?width=220&color=0b57d0) |
-| Front-End Development | ![](https://progress-bar.dev/70/?width=220&color=2d6fe0) |
-| Business Analysis | ![](https://progress-bar.dev/60/?width=220&color=6d5bd0) |
-| Product Thinking | ![](https://progress-bar.dev/60/?width=220&color=7a5ce0) |
-| System Analysis | ![](https://progress-bar.dev/65/?width=220&color=8b5cf6) |
-| AI & Digital Products | ![](https://progress-bar.dev/50/?width=220&color=a06bf7) |
+<td width="50%">
+
+**UI/UX Design**
+
+`█████████░░`
+
+Exploring
+
+</td>
+
+<td width="50%">
+
+**Front-End Development**
+
+`████████░░░`
+
+Building
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+**Business Analysis**
+
+`███████░░░░`
+
+Learning
+
+</td>
+
+<td width="50%">
+
+**Product Thinking**
+
+`███████░░░░`
+
+Exploring
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+**AI & Digital Products**
+
+`██████░░░░░`
+
+Experimenting
+
+</td>
+
+<td width="50%">
+
+**System Analysis**
+
+`███████░░░░`
+
+Learning
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
 
 **Learn → Build → Experiment → Improve**
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B57D0,100:8B5CF6&height=4" width="100%"/>
+---
 
 <!-- ===================== PROJECTS ===================== -->
 
-<a name="projects"></a>
-<h2 align="center">
-<img src="https://img.icons8.com/fluency-systems-filled/26/0B57D0/rocket.png" width="24" valign="middle"/>
-&nbsp;Projects
+<h2>
+<img src="https://img.icons8.com/fluency-systems-filled/28/0B57D0/rocket.png" width="24"/>
+Projects
 </h2>
 
-<p align="center"><i>Building ideas into something real — where <b>Technology + Design + Business</b> meet.</i></p>
+<div align="center">
 
-<table align="center" width="100%">
+### Building ideas into something real.
+
+</div>
+
+I'm especially interested in projects that combine:
+
+**Technology + Design + Business**
+
+<table>
 <tr>
-<td width="50%" valign="top">
 
-### <img src="https://img.icons8.com/fluency-systems-filled/22/0B57D0/code.png" width="20" valign="middle"/> Web Applications
+<td width="50%">
+
+<h3>
+<img src="https://img.icons8.com/fluency-systems-filled/22/0B57D0/code.png" width="20"/>
+Web Applications
+</h3>
+
 Building functional web applications while improving my development skills.
 
 </td>
-<td width="50%" valign="top">
 
-### <img src="https://img.icons8.com/fluency-systems-filled/22/8B5CF6/design.png" width="20" valign="middle"/> UI/UX Prototypes
+<td width="50%">
+
+<h3>
+<img src="https://img.icons8.com/fluency-systems-filled/22/8B5CF6/design.png" width="20"/>
+UI/UX Prototypes
+</h3>
+
 Designing interfaces and prototypes focused on usability and user experience.
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
-### <img src="https://img.icons8.com/fluency-systems-filled/22/0B57D0/combo-chart.png" width="20" valign="middle"/> System & Business Analysis
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<h3>
+<img src="https://img.icons8.com/fluency-systems-filled/22/0B57D0/combo-chart.png" width="20"/>
+System & Business Analysis
+</h3>
+
 Understanding problems, requirements, processes, and potential solutions.
 
 </td>
-<td width="50%" valign="top">
 
-### <img src="https://img.icons8.com/fluency-systems-filled/22/8B5CF6/artificial-intelligence.png" width="20" valign="middle"/> Digital Products
+<td width="50%">
+
+<h3>
+<img src="https://img.icons8.com/fluency-systems-filled/22/8B5CF6/artificial-intelligence.png" width="20"/>
+Digital Products
+</h3>
+
 Exploring AI-powered ideas and digital products that solve real problems.
 
 </td>
+
 </tr>
 </table>
 
-<div align="center">
-
-<!-- Pin your best repos here once ready — swap in real repo names:
-<img src="https://github-readme-stats.shion.dev/api/pin/?username=firnassw&repo=REPO_NAME&theme=transparent&hide_border=true&title_color=0B57D0&text_color=4B5563&icon_color=8B5CF6" />
--->
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:0B57D0&height=4" width="100%"/>
+---
 
 <!-- ===================== GITHUB ACTIVITY ===================== -->
 
-<a name="activity"></a>
-<h2 align="center">
-<img src="https://img.icons8.com/fluency-systems-filled/26/0B57D0/github.png" width="24" valign="middle"/>
-&nbsp;GitHub Activity
+<h2>
+<img src="https://img.icons8.com/fluency-systems-filled/28/0B57D0/github.png" width="24"/>
+GitHub Activity
 </h2>
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.shion.dev/api?username=firnassw&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=0B57D0&text_color=4B5563&icon_color=8B5CF6" alt="Wahid's GitHub Stats"/>
-<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=firnassw&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=0B57D0&text_color=4B5563&icon_color=8B5CF6" alt="Wahid's Top Languages"/>
+<a href="https://github.com/firnassw">
+
+<img
+height="180"
+src="https://github-readme-stats.shion.dev/api?username=firnassw&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=0B57D0&text_color=4B5563&icon_color=8B5CF6"
+alt="Wahid's GitHub Stats"
+/>
+
+</a>
+
+<a href="https://github.com/firnassw">
+
+<img
+height="180"
+src="https://github-readme-stats.shion.dev/api/top-langs/?username=firnassw&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=0B57D0&text_color=4B5563&icon_color=8B5CF6"
+alt="Wahid's Top Languages"
+/>
+
+</a>
+
+</div>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=firnassw&theme=transparent&hide_border=true&ring=0B57D0&fire=8B5CF6&currStreakLabel=0B57D0&sideLabels=4B5563&dates=6B7280" alt="Wahid's GitHub Streak"/>
+<div align="center">
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=firnassw&theme=minimal&hide_border=true&bg_color=ffffff&color=0B57D0&line=8B5CF6&point=0B57D0&area=true&area_color=8B5CF6" alt="Wahid's Contribution Graph" width="90%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=firnassw&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Trophies"/>
+<img
+src="https://streak-stats.demolab.com/?user=firnassw&theme=transparent&hide_border=true&ring=0B57D0&fire=8B5CF6&currStreakLabel=0B57D0&sideLabels=4B5563&dates=6B7280"
+alt="Wahid's GitHub Streak"
+/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B57D0,100:8B5CF6&height=4" width="100%"/>
+---
 
 <!-- ===================== CONTRIBUTION SNAKE ===================== -->
 
-<h2 align="center">
-<img src="https://img.icons8.com/fluency-systems-filled/26/8B5CF6/activity-history.png" width="24" valign="middle"/>
-&nbsp;Contribution Journey
+<h2>
+<img src="https://img.icons8.com/fluency-systems-filled/28/8B5CF6/activity-history.png" width="24"/>
+Contribution Journey
 </h2>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/firnassw/firnassw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img
+src="https://raw.githubusercontent.com/firnassw/firnassw/output/github-contribution-grid-snake.svg"
+alt="GitHub Contribution Snake"
+/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:0B57D0&height=4" width="100%"/>
+---
 
 <!-- ===================== FIND ME ===================== -->
 
-<a name="connect"></a>
-<h2 align="center">
-<img src="https://img.icons8.com/fluency-systems-filled/26/0B57D0/connect.png" width="24" valign="middle"/>
-&nbsp;Let's Connect
+<h2>
+<img src="https://img.icons8.com/fluency-systems-filled/28/0B57D0/connect.png" width="24"/>
+Let's Connect
 </h2>
 
 <div align="center">
@@ -289,32 +421,41 @@ Exploring AI-powered ideas and digital products that solve real problems.
 <a href="mailto:firnaswahid@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-0B57D0?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://github.com/firnassw">
 <img src="https://img.shields.io/badge/GitHub-Profile-171923?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/in/wahid-firnas/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="https://www.instagram.com/firnassw/">
 <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
 
+---
+
 <!-- ===================== FOOTER ===================== -->
 
 <div align="center">
 
-<br/>
+<img
+src="https://komarev.com/ghpvc/?username=firnassw&style=flat-square&color=0B57D0&label=Profile+Views"
+alt="Profile Views"
+/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!;Let's+build+something+together." alt="Footer Typing SVG"/>
+<br/><br/>
 
-<br/>
+<i>Learning, building, and figuring things out one project at a time.</i>
 
-<a href="#top">
-<img src="https://img.shields.io/badge/⬆-Back%20to%20top-0B57D0?style=flat-square"/>
-</a>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6D5BD0,100:0B57D0&height=120&section=footer" width="100%"/>
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:0B57D0&height=120&section=footer"
+width="100%"
+/>
 
 </div>
