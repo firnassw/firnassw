@@ -1,6 +1,5 @@
 name: Generate Pac-Man Animation
 
-# Tentukan kapan action ini otomatis berjalan (misal: setiap 6 jam sekali dan secara manual)
 on:
   schedule:
     - cron: "0 */6 * * *"
@@ -10,19 +9,16 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # 1. Mengambil data repository profilmu
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # 2. Menjalankan Action generator Pac-Man
       - name: Generate Pac-Man SVG
-        uses: Platane/snk@v3 # (Action snk ini mendukung opsi kustomisasi karakter Pac-Man)
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/pacman.svg?palette=github-dark&color_snake=orange
 
-      # 3. Menyimpan hasilnya kembali ke branch utama repository
       - name: Push generated files to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
