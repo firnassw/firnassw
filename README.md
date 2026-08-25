@@ -4,7 +4,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B57D0,100:8B5CF6&height=220&section=header&text=Wahid%20Firnas&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Information%20Systems%20Student%20%7C%20Builder%20%7C%20Explorer&descAlignY=58&descSize=18" width="100%"/>
 
-<!-- Durasi diubah menjadi 5000ms dan pause menjadi 2000ms -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=5000&pause=2000&color=0B57D0&center=true&vCenter=true&width=700&lines=Information+Systems+Student;Exploring+UI%2FUX+%26+Web+Development;Learning+Business+%26+System+Analysis;Building+Digital+Products;Still+Learning.+Still+Building." alt="Typing SVG"/>
 
 <br/><br/>
@@ -33,15 +32,7 @@ Hi! I'm **Wahid**, an **Information Systems student** interested in the intersec
 
 I enjoy turning ideas into useful digital solutions — from designing interfaces and building web applications to analyzing systems and exploring how technology can solve real-world problems.
 
-I'm currently exploring:
-
-- **UI/UX Design**
-- **Front-End Development**
-- **System & Business Analysis**
-- **AI & Digital Products**
-- **Product Thinking**
-
-I'm focused on learning through real projects, experimenting with ideas, and improving one step at a time.
+I'm currently exploring **UI/UX Design, Front-End Development, System & Business Analysis, AI & Digital Products,** and **Product Thinking**. I'm focused on learning through real projects, experimenting with ideas, and improving one step at a time.
 
 > **Still learning. Still building. Still figuring things out.**
 
@@ -56,38 +47,23 @@ I'm focused on learning through real projects, experimenting with ideas, and imp
 &nbsp;What I'm Exploring
 </h2>
 
-<table>
-<tr>
+<br/>
 
-<td width="50%">
-<h3><img src="https://api.iconify.design/lucide:palette.svg?color=%238B5CF6" width="24" height="24" valign="middle" />&nbsp; Design</h3>
-Creating interfaces that are simple, intuitive, and useful.<br/><br/>
-<b>UI/UX · Figma · Prototyping · Design Thinking</b>
-</td>
+### <img src="https://api.iconify.design/lucide:palette.svg?color=%238B5CF6" width="22" height="22" valign="middle" /> Design
+Creating interfaces that are simple, intuitive, and useful.
+> **UI/UX · Figma · Prototyping · Design Thinking**
 
-<td width="50%">
-<h3><img src="https://api.iconify.design/lucide:code-2.svg?color=%238B5CF6" width="24" height="24" valign="middle" />&nbsp; Development</h3>
-Building web applications and learning how things work behind the interface.<br/><br/>
-<b>HTML · CSS · JavaScript · PHP · Laravel</b>
-</td>
+### <img src="https://api.iconify.design/lucide:code-2.svg?color=%238B5CF6" width="22" height="22" valign="middle" /> Development
+Building web applications and learning how things work behind the interface.
+> **HTML · CSS · JavaScript · PHP · Laravel**
 
-</tr>
-<tr>
+### <img src="https://api.iconify.design/lucide:chart-pie.svg?color=%238B5CF6" width="22" height="22" valign="middle" /> Analysis
+Understanding problems before jumping into solutions.
+> **System Analysis · Business Analysis · Data · SQL**
 
-<td width="50%">
-<h3><img src="https://api.iconify.design/lucide:chart-pie.svg?color=%238B5CF6" width="24" height="24" valign="middle" />&nbsp; Analysis</h3>
-Understanding problems before jumping into solutions.<br/><br/>
-<b>System Analysis · Business Analysis · Data · SQL</b>
-</td>
-
-<td width="50%">
-<h3><img src="https://api.iconify.design/lucide:sparkles.svg?color=%238B5CF6" width="24" height="24" valign="middle" />&nbsp; Digital Products</h3>
-Exploring how technology and AI can become meaningful products.<br/><br/>
-<b>AI · Product Thinking · Automation · Innovation</b>
-</td>
-
-</tr>
-</table>
+### <img src="https://api.iconify.design/lucide:sparkles.svg?color=%238B5CF6" width="22" height="22" valign="middle" /> Digital Products
+Exploring how technology and AI can become meaningful products.
+> **AI · Product Thinking · Automation · Innovation**
 
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B57D0,100:8B5CF6&height=2" width="100%"/>
@@ -127,38 +103,14 @@ Exploring how technology and AI can become meaningful products.<br/><br/>
 &nbsp;Currently Learning
 </h2>
 
-<table>
-<tr>
-<td width="50%">
-<b>UI/UX Design</b><br/>
-<code>█████████░░</code> Exploring
-</td>
-<td width="50%">
-<b>Front-End Development</b><br/>
-<code>████████░░░</code> Building
-</td>
-</tr>
-<tr>
-<td width="50%">
-<b>Business Analysis</b><br/>
-<code>███████░░░░</code> Learning
-</td>
-<td width="50%">
-<b>Product Thinking</b><br/>
-<code>███████░░░░</code> Exploring
-</td>
-</tr>
-<tr>
-<td width="50%">
-<b>AI & Digital Products</b><br/>
-<code>██████░░░░░</code> Experimenting
-</td>
-<td width="50%">
-<b>System Analysis</b><br/>
-<code>███████░░░░</code> Learning
-</td>
-</tr>
-</table>
+<br/>
+
+- **UI/UX Design** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `█████████░░` (Exploring)
+- **Front-End Development** &nbsp;&nbsp;&nbsp; `████████░░░` (Building)
+- **Business Analysis** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `███████░░░░` (Learning)
+- **System Analysis** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `███████░░░░` (Learning)
+- **Product Thinking** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `███████░░░░` (Exploring)
+- **AI & Digital Products** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `██████░░░░░` (Experimenting)
 
 <br/>
 
@@ -179,33 +131,22 @@ Exploring how technology and AI can become meaningful products.<br/><br/>
 
 <div align="center">
 <h3>Building ideas into something real.</h3>
+<p>I'm especially interested in projects that combine:<br/><b>Technology + Design + Business</b></p>
 </div>
 
-I'm especially interested in projects that combine:
-**Technology + Design + Business**
+<br/>
 
-<table>
-<tr>
-<td width="50%">
-<h3><img src="https://api.iconify.design/lucide:globe.svg?color=%238B5CF6" width="24" height="24" valign="middle" />&nbsp; Web Applications</h3>
+### <img src="https://api.iconify.design/lucide:globe.svg?color=%238B5CF6" width="22" height="22" valign="middle" /> Web Applications
 Building functional web applications while improving my development skills.
-</td>
-<td width="50%">
-<h3><img src="https://api.iconify.design/lucide:smartphone.svg?color=%238B5CF6" width="24" height="24" valign="middle" />&nbsp; UI/UX Prototypes</h3>
+
+### <img src="https://api.iconify.design/lucide:smartphone.svg?color=%238B5CF6" width="22" height="22" valign="middle" /> UI/UX Prototypes
 Designing interfaces and prototypes focused on usability and user experience.
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3><img src="https://api.iconify.design/lucide:settings-2.svg?color=%238B5CF6" width="24" height="24" valign="middle" />&nbsp; System & Business Analysis</h3>
+
+### <img src="https://api.iconify.design/lucide:settings-2.svg?color=%238B5CF6" width="22" height="22" valign="middle" /> System & Business Analysis
 Understanding problems, requirements, processes, and potential solutions.
-</td>
-<td width="50%">
-<h3><img src="https://api.iconify.design/lucide:lightbulb.svg?color=%238B5CF6" width="24" height="24" valign="middle" />&nbsp; Digital Products</h3>
+
+### <img src="https://api.iconify.design/lucide:lightbulb.svg?color=%238B5CF6" width="22" height="22" valign="middle" /> Digital Products
 Exploring AI-powered ideas and digital products that solve real problems.
-</td>
-</tr>
-</table>
 
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B57D0,100:8B5CF6&height=2" width="100%"/>
