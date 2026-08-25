@@ -1,22 +1,22 @@
 name: Update Latest Projects
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
-  update-projects:
+  update:
     runs-on: ubuntu-latest
 
-    permissions:
-      contents: write
-
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Update Latest Projects
+      - name: Update projects
         uses: actions/github-script@v7
         with:
           script: |
@@ -26,46 +26,55 @@ jobs:
               github.rest.repos.listForUser,
               {
                 username: username,
+                per_page: 100,
                 sort: "updated",
-                direction: "desc",
-                per_page: 100
+                direction: "desc"
               }
             );
 
             const projects = repos
-              .filter(repo => !repo.fork && !repo.archived)
-              .slice(0, 6)
-              .map(repo => {
-                const description =
-                  repo.description || "No description available";
+              .filter(repo =>
+                !repo.fork &&
+                !repo.archived &&
+                repo.name !== username
+              )
+              .slice(0, 6);
 
-                return `- [${repo.name}](${repo.html_url}) — ${description}`;
-              })
-              .join("\n");
+            let content = "";
+
+            if (projects.length === 0) {
+              content = "- Belum ada project.";
+            } else {
+              content = projects.map(repo => {
+                const description =
+                  repo.description || "No description available.";
+
+                return `- 🚀 [${repo.name}](${repo.html_url}) — ${description}`;
+              }).join("\n");
+            }
 
             const fs = require("fs");
-            const path = "README.md";
+            const file = "README.md";
 
-            let readme = fs.readFileSync(path, "utf8");
+            let readme = fs.readFileSync(file, "utf8");
 
             const start = "<!-- PROJECTS:START -->";
             const end = "<!-- PROJECTS:END -->";
 
-            const newSection =
-              `${start}\n${projects}\n${end}`;
-
             const regex = new RegExp(
-              `${start}[\\s\\S]*?${end}`,
-              "m"
+              `${start}[\\s\\S]*?${end}`
             );
 
+            const replacement =
+              `${start}\n${content}\n${end}`;
+
             if (regex.test(readme)) {
-              readme = readme.replace(regex, newSection);
+              readme = readme.replace(regex, replacement);
             } else {
-              readme += `\n\n## 🚀 Latest Projects\n\n${newSection}\n`;
+              readme += `\n\n## 🚀 Latest Projects\n\n${replacement}\n`;
             }
 
-            fs.writeFileSync(path, readme);
+            fs.writeFileSync(file, readme);
 
       - name: Commit changes
         run: |
@@ -75,7 +84,7 @@ jobs:
           git add README.md
 
           if git diff --cached --quiet; then
-            echo "No changes to commit."
+            echo "No changes."
           else
             git commit -m "chore: update latest projects"
             git push
