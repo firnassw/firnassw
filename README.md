@@ -104,6 +104,11 @@ I'm currently exploring **UI/UX Design, Front-End Development, System & Business
 
 <br/>
 
+## 🚀 Latest Projects
+
+<!-- PROJECTS:START -->
+<!-- PROJECTS:END -->
+
 <!-- ===================== FOOTER ===================== -->
 
 <div align="center">
