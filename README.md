@@ -178,8 +178,6 @@ Some of the things I enjoy building and exploring:
   />
 </a>
 
-<br/>
-
 <a href="https://github.com/firnassw">
   <img
     height="180"
