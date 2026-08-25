@@ -25,7 +25,7 @@
 <!-- ===================== ABOUT ===================== -->
 
 <h2>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Winking%20Face.png" alt="Winking Face" width="30" height="30" valign="middle" />
+<img src="https://api.iconify.design/lucide:user.svg?color=%230B57D0" width="28" height="28" valign="middle" />
 &nbsp;About Me
 </h2>
 
@@ -52,7 +52,7 @@ I'm focused on learning through real projects, experimenting with ideas, and imp
 <!-- ===================== EXPLORING ===================== -->
 
 <h2>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Compass.png" alt="Compass" width="30" height="30" valign="middle" />
+<img src="https://api.iconify.design/lucide:compass.svg?color=%230B57D0" width="28" height="28" valign="middle" />
 &nbsp;What I'm Exploring
 </h2>
 
@@ -60,13 +60,13 @@ I'm focused on learning through real projects, experimenting with ideas, and imp
 <tr>
 
 <td width="50%">
-<h3>🎨 Design</h3>
+<h3><img src="https://api.iconify.design/lucide:palette.svg?color=%238B5CF6" width="24" height="24" valign="middle" />&nbsp; Design</h3>
 Creating interfaces that are simple, intuitive, and useful.<br/><br/>
 <b>UI/UX · Figma · Prototyping · Design Thinking</b>
 </td>
 
 <td width="50%">
-<h3>💻 Development</h3>
+<h3><img src="https://api.iconify.design/lucide:code-2.svg?color=%238B5CF6" width="24" height="24" valign="middle" />&nbsp; Development</h3>
 Building web applications and learning how things work behind the interface.<br/><br/>
 <b>HTML · CSS · JavaScript · PHP · Laravel</b>
 </td>
@@ -75,13 +75,13 @@ Building web applications and learning how things work behind the interface.<br/
 <tr>
 
 <td width="50%">
-<h3>📊 Analysis</h3>
+<h3><img src="https://api.iconify.design/lucide:chart-pie.svg?color=%238B5CF6" width="24" height="24" valign="middle" />&nbsp; Analysis</h3>
 Understanding problems before jumping into solutions.<br/><br/>
 <b>System Analysis · Business Analysis · Data · SQL</b>
 </td>
 
 <td width="50%">
-<h3>🚀 Digital Products</h3>
+<h3><img src="https://api.iconify.design/lucide:sparkles.svg?color=%238B5CF6" width="24" height="24" valign="middle" />&nbsp; Digital Products</h3>
 Exploring how technology and AI can become meaningful products.<br/><br/>
 <b>AI · Product Thinking · Automation · Innovation</b>
 </td>
@@ -96,7 +96,7 @@ Exploring how technology and AI can become meaningful products.<br/><br/>
 <!-- ===================== TECH STACK ===================== -->
 
 <h2>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="30" height="30" valign="middle" />
+<img src="https://api.iconify.design/lucide:layers.svg?color=%230B57D0" width="28" height="28" valign="middle" />
 &nbsp;Creative & Tech Stack
 </h2>
 
@@ -123,7 +123,7 @@ Exploring how technology and AI can become meaningful products.<br/><br/>
 <!-- ===================== CURRENTLY LEARNING ===================== -->
 
 <h2>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="30" height="30" valign="middle" />
+<img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%230B57D0" width="28" height="28" valign="middle" />
 &nbsp;Currently Learning
 </h2>
 
@@ -173,7 +173,7 @@ Exploring how technology and AI can become meaningful products.<br/><br/>
 <!-- ===================== PROJECTS ===================== -->
 
 <h2>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" valign="middle" />
+<img src="https://api.iconify.design/lucide:folder-git-2.svg?color=%230B57D0" width="28" height="28" valign="middle" />
 &nbsp;Projects
 </h2>
 
@@ -187,21 +187,21 @@ I'm especially interested in projects that combine:
 <table>
 <tr>
 <td width="50%">
-<h3>🌐 Web Applications</h3>
+<h3><img src="https://api.iconify.design/lucide:globe.svg?color=%238B5CF6" width="24" height="24" valign="middle" />&nbsp; Web Applications</h3>
 Building functional web applications while improving my development skills.
 </td>
 <td width="50%">
-<h3>📱 UI/UX Prototypes</h3>
+<h3><img src="https://api.iconify.design/lucide:smartphone.svg?color=%238B5CF6" width="24" height="24" valign="middle" />&nbsp; UI/UX Prototypes</h3>
 Designing interfaces and prototypes focused on usability and user experience.
 </td>
 </tr>
 <tr>
 <td width="50%">
-<h3>⚙️ System & Business Analysis</h3>
+<h3><img src="https://api.iconify.design/lucide:settings-2.svg?color=%238B5CF6" width="24" height="24" valign="middle" />&nbsp; System & Business Analysis</h3>
 Understanding problems, requirements, processes, and potential solutions.
 </td>
 <td width="50%">
-<h3>💡 Digital Products</h3>
+<h3><img src="https://api.iconify.design/lucide:lightbulb.svg?color=%238B5CF6" width="24" height="24" valign="middle" />&nbsp; Digital Products</h3>
 Exploring AI-powered ideas and digital products that solve real problems.
 </td>
 </tr>
@@ -214,7 +214,7 @@ Exploring AI-powered ideas and digital products that solve real problems.
 <!-- ===================== GITHUB ACTIVITY ===================== -->
 
 <h2>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="30" height="30" valign="middle" />
+<img src="https://api.iconify.design/lucide:activity.svg?color=%230B57D0" width="28" height="28" valign="middle" />
 &nbsp;GitHub Activity
 </h2>
 
@@ -237,7 +237,7 @@ Exploring AI-powered ideas and digital products that solve real problems.
 <!-- ===================== FIND ME ===================== -->
 
 <h2>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="Mobile Phone" width="30" height="30" valign="middle" />
+<img src="https://api.iconify.design/lucide:send.svg?color=%230B57D0" width="28" height="28" valign="middle" />
 &nbsp;Let's Connect
 </h2>
 
