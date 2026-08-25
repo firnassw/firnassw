@@ -119,13 +119,10 @@ Exploring how technology and AI can become meaningful products.
 <!-- ===================== TECH STACK ===================== -->
 
 <h2>
-<img src="https://img.icons8.com/fluency-systems-filled/28/0B57D0/tools.png" width="24"/>
-Creative & Tech Stack
+🛠️ Creative & Tech Stack
 </h2>
 
 <div align="center">
-
-<!-- ROW 1 -->
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="44" alt="HTML5"/>
@@ -152,15 +149,7 @@ Creative & Tech Stack
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="44" alt="PostgreSQL"/>
 </p>
 
-<!-- ROW 2 -->
-
 <p>
-<img src="https://img.icons8.com/color/48/power-bi.png" width="44" alt="Power BI"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="44" alt="Microsoft Excel"/>
-&nbsp;&nbsp;&nbsp;
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="44" alt="Git"/>
 &nbsp;&nbsp;&nbsp;
 
@@ -176,7 +165,19 @@ Creative & Tech Stack
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="44" alt="Figma"/>
 &nbsp;&nbsp;&nbsp;
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="44" alt="SQL Server"/>
+</p>
+
+<p>
+
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="44" alt="Microsoft Excel"/>
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://img.icons8.com/color/48/power-bi.png" width="44" alt="Power BI"/>
+&nbsp;&nbsp;&nbsp;
+
 <img src="https://img.icons8.com/color/48/canva.png" width="44" alt="Canva"/>
+
 </p>
 
 </div>
