@@ -68,36 +68,6 @@ I'm currently exploring **UI/UX Design, Front-End Development, System & Business
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B57D0,100:8B5CF6&height=2" width="100%"/>
 <br/>
 
-<!-- ===================== PROJECTS ===================== -->
-
-<h2>
-<img src="https://api.iconify.design/lucide:folder-git-2.svg?color=%230B57D0" width="28" height="28" valign="middle" />
-&nbsp;Projects
-</h2>
-
-<div align="center">
-<h3>Building ideas into something real.</h3>
-<p>I'm especially interested in projects that combine:<br/><b>Technology + Design + Business</b></p>
-</div>
-
-<br/>
-
-### <img src="https://api.iconify.design/lucide:globe.svg?color=%238B5CF6" width="22" height="22" valign="middle" /> Web Applications
-Building functional web applications while improving my development skills.
-
-### <img src="https://api.iconify.design/lucide:smartphone.svg?color=%238B5CF6" width="22" height="22" valign="middle" /> UI/UX Prototypes
-Designing interfaces and prototypes focused on usability and user experience.
-
-### <img src="https://api.iconify.design/lucide:settings-2.svg?color=%238B5CF6" width="22" height="22" valign="middle" /> System & Business Analysis
-Understanding problems, requirements, processes, and potential solutions.
-
-### <img src="https://api.iconify.design/lucide:lightbulb.svg?color=%238B5CF6" width="22" height="22" valign="middle" /> Digital Products
-Exploring AI-powered ideas and digital products that solve real problems.
-
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B57D0,100:8B5CF6&height=2" width="100%"/>
-<br/>
-
 <!-- ===================== GITHUB ACTIVITY ===================== -->
 
 <h2>
