@@ -119,7 +119,8 @@ Exploring how technology and AI can become meaningful products.
 <!-- ===================== TECH STACK ===================== -->
 
 <h2>
-🛠️ Creative & Tech Stack
+<img src="https://cdn.simpleicons.org/devicon/0B57D0" width="24"/>
+Creative & Tech Stack
 </h2>
 
 <div align="center">
