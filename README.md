@@ -1,148 +1,240 @@
-# 👋 Hi, I'm Wahid
+<!-- ===================== HEADER ===================== -->
 
-🎓 **Information Systems Student**
-💻 Exploring **Technology, Digital Products & Business**
-🌱 Learning by building, experimenting, and improving.
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=220&section=header&text=Wahid%20Atsal&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Information%20Systems%20Student%20%7C%20Builder%20%7C%20Explorer&descAlignY=58&descSize=18" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=700&lines=Information+Systems+Student;Exploring+UI%2FUX+%26+Web+Development;Learning+Business+%26+System+Analysis;Building+Digital+Products;Still+Learning.+Still+Building." alt="Typing SVG" />
+
+<br/>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-Visit-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-## 💫 About Me
+## 👋 About Me
 
-I'm an **Information Systems student** who enjoys exploring how technology can be turned into useful and meaningful solutions.
+Hi! I'm **Wahid**, an **Information Systems student** interested in the intersection of **technology, design, and business**.
 
-I'm currently exploring **UI/UX Design, Front-End Development, and Business Analysis**. I enjoy working on projects where technology, design, and business come together to solve real problems.
+I enjoy turning ideas into useful digital solutions — whether that's designing an interface, building a web application, analyzing a system, or exploring how technology can solve real-world problems.
 
-I'm still learning and figuring out which direction fits me best. I like trying new things, building projects, and improving my skills step by step.
-
-> **Still learning. Still building. Still figuring things out.**
-
----
-
-## 🎯 What I'm Interested In
+I'm currently exploring:
 
 * 🎨 **UI/UX Design**
-* 💻 **Web Development**
+* 💻 **Front-End Development**
 * 📊 **System & Business Analysis**
 * 🤖 **AI & Digital Products**
-* 💡 **Technology & Business**
+* 🚀 **Product Thinking**
+
+I'm not trying to master everything at once.
+
+I'm focused on **learning through real projects, experimenting with ideas, and improving one step at a time.**
+
+> *Still learning. Still building. Still figuring things out.*
 
 ---
 
-## Tech Stack
+## 🧭 What I'm Exploring
 
-### Web Development
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="42" alt="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="42" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="42" alt="Laravel"/>
-</p>
-
-### Database & Data
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" alt="SQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="42" alt="Power BI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="42" alt="Microsoft Excel"/>
-</p>
-
-### Automation & Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" alt="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="42" alt="Postman"/>
-</p>
-
-### Design
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="42" alt="Figma"/>
-</p>
-
+<table>
+<tr>
+<td width="50%">
 
 ### 🎨 Design
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+Creating interfaces that are simple, intuitive, and useful.
+
+**UI/UX · Figma · Prototyping · Design Thinking**
+
+</td>
+
+<td width="50%">
+
+### 💻 Development
+
+Building web applications and learning how things work behind the interface.
+
+**HTML · CSS · JavaScript · PHP · Laravel**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📊 Analysis
+
+Understanding problems before jumping into solutions.
+
+**System Analysis · Business Analysis · Data · SQL**
+
+</td>
+
+<td width="50%">
+
+### 🤖 Digital Products
+
+Exploring how technology and AI can become meaningful products.
+
+**AI · Product Thinking · Automation · Innovation**
+
+</td>
+</tr>
+</table>
 
 ---
 
+# 🛠️ Tech Stack
+
+### 💻 Development
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="42"/>
+</p>
+
+### 🗄️ Database & Data
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="42"/>
+</p>
+
+### ⚙️ Tools
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="42"/>
+</p>
+
+### 🎨 Design
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="42"/>
+</p>
+
+---
 
 ## 🌱 Currently Learning
 
-I'm currently focusing on improving my understanding of:
+```text
+UI/UX Design          █████████░░  Exploring
+Front-End Development ████████░░░  Building
+Business Analysis     ███████░░░░  Learning
+Product Thinking      ███████░░░░  Exploring
+AI & Digital Products ██████░░░░░  Experimenting
+```
 
-* Front-End Development
-* UI/UX Design
-* Business Analysis
-* Product Thinking
-* AI & Digital Products
-
-I'm focusing on building a strong foundation and learning through real projects rather than trying to master everything at once.
-
----
-
-## 🧠 How I Like to Learn
+My current learning approach is simple:
 
 **Learn → Build → Experiment → Improve**
 
-I enjoy learning by actually working on something.
-
-For me, every project is a chance to try a new approach, find what doesn't work, and improve it.
+Instead of only consuming tutorials, I try to turn what I learn into something tangible.
 
 ---
 
-# 📊 GitHub Stats
+## 🚀 Projects
 
-<img align="left" src="https://github-readme-stats.shion.dev/api?username=firnassw&theme=default&hide_border=true&include_all_commits=false&count_private=false">
+<div align="center">
 
-<br clear="left">
+### Building ideas into something real.
 
-<img align="left" src="https://streak-stats.demolab.com/?user=firnassw&theme=default&hide_border=true">
+</div>
 
-<br clear="left">
+I'm especially interested in projects that combine:
 
-<img align="left" src="https://github-readme-stats.shion.dev/api/top-langs/?username=firnassw&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
+**Technology + Design + Business**
 
-<br clear="left">
+Some of the things I enjoy building and exploring:
 
----
+* 🌐 Web applications
+* 🎨 UI/UX prototypes
+* 📊 Business & system analysis
+* 🤖 AI-powered ideas
+* 💡 Digital product concepts
 
-## 🌐 Portfolio
-
-Want to see more about me, my projects, certificates, and experience?
-
-**[Visit My Portfolio →](YOUR_PORTFOLIO_URL)**
-
----
-
-## 🤝 Let's Connect
-
-I'm always open to learning from others, discussing ideas, collaborating on projects, or simply having a conversation about technology and digital products.
-
-<p align="left">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-  <a href="YOUR_INSTAGRAM_URL">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+> Every project doesn't have to be perfect.
+> It just needs to teach me something.
 
 ---
 
-<p align="center">
-  <i>Learning, building, and figuring things out one project at a time.</i>
-</p>
+# 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=firnassw&icon=0&color=0" alt="Profile views"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=firnassw&theme=transparent&hide_border=true&include_all_commits=false&count_private=false" height="170"/>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=firnassw&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="170"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=firnassw&theme=transparent&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Journey
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/firnassw/firnassw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+## 🌐 Find Me
+
+<div align="center">
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_INSTAGRAM_URL">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 A little reminder
+
+**Learn something. Build something. Break something. Improve it.**
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=firnassw&style=flat-square&color=1F6FEB&label=Profile+Views"/>
+
+<br/><br/>
+
+<i>Learning, building, and figuring things out one project at a time.</i>
+
+</div>
+
+<!-- ===================== FOOTER ===================== -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=120&section=footer" width="100%"/>
