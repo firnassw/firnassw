@@ -10,6 +10,8 @@
 </div>
 
 <br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B57D0,100:8B5CF6&height=2" width="100%"/>
+<br/>
 
 <!-- ===================== ABOUT ===================== -->
 
@@ -47,14 +49,19 @@ I'm currently exploring **UI/UX Design, Front-End Development, System & Business
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma,git,github,vscode,postman" alt="Tools & Design"/></a>
 </p>
 
-<!-- Data Analytics, Automation & API (Unified Dark Theme) -->
+<!-- Data Analytics, Automation & API (Pure Icons) -->
 <p>
-  <img src="https://img.shields.io/badge/REST%20API-171923?style=for-the-badge&logo=json&logoColor=white" alt="REST API" />
-  <img src="https://img.shields.io/badge/SQL-171923?style=for-the-badge&logo=databricks&logoColor=FF3621" alt="SQL" />
-  <img src="https://img.shields.io/badge/Power%20BI-171923?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Power%20Automate-171923?style=for-the-badge&logo=powerautomate&logoColor=0066FF" alt="Power Automate" />
-  <img src="https://img.shields.io/badge/Power%20Apps-171923?style=for-the-badge&logo=powerapps&logoColor=742774" alt="Power Apps" />
-  <img src="https://img.shields.io/badge/Excel-171923?style=for-the-badge&logo=microsoftexcel&logoColor=217346" alt="Microsoft Excel" />
+  <img src="https://api.iconify.design/carbon:api-1.svg?color=%230B57D0" width="48" height="48" alt="REST API" />
+  &nbsp;&nbsp;
+  <img src="https://api.iconify.design/vscode-icons:file-type-sql.svg" width="48" height="48" alt="SQL" />
+  &nbsp;&nbsp;
+  <img src="https://api.iconify.design/logos:microsoft-power-bi.svg" width="48" height="48" alt="Power BI" />
+  &nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:powerautomate.svg?color=%230066FF" width="48" height="48" alt="Power Automate" />
+  &nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:powerapps.svg?color=%23742774" width="48" height="48" alt="Power Apps" />
+  &nbsp;&nbsp;
+  <img src="https://api.iconify.design/vscode-icons:file-type-excel.svg" width="48" height="48" alt="Microsoft Excel" />
 </p>
 
 </div>
