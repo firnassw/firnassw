@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=5000&pause=2000&color=0B57D0&center=true&vCenter=true&width=700&lines=Information+Systems+Student;Exploring+UI%2FUX+%26+Web+Development;Learning+Business+%26+System+Analysis;Building+Digital+Products;Still+Learning.+Still+Building." alt="Typing SVG"/>
 
 <br/>
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Visit-0B57D0?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://wahid-firnas.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-0B57D0?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/wahid-firnas/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
@@ -49,19 +49,19 @@ I'm currently exploring **UI/UX Design, Front-End Development, System & Business
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma,git,github,vscode,postman" alt="Tools & Design"/></a>
 </p>
 
-<!-- Data Analytics, Automation & API (Pure Icons) -->
+<!-- Data Analytics, Automation & API (Pure Transparent Icons) -->
 <p>
-  <img src="https://api.iconify.design/carbon:api-1.svg?color=%230B57D0" width="48" height="48" alt="REST API" />
-  &nbsp;&nbsp;
-  <img src="https://api.iconify.design/vscode-icons:file-type-sql.svg" width="48" height="48" alt="SQL" />
-  &nbsp;&nbsp;
-  <img src="https://api.iconify.design/logos:microsoft-power-bi.svg" width="48" height="48" alt="Power BI" />
-  &nbsp;&nbsp;
-  <img src="https://api.iconify.design/simple-icons:powerautomate.svg?color=%230066FF" width="48" height="48" alt="Power Automate" />
-  &nbsp;&nbsp;
-  <img src="https://api.iconify.design/simple-icons:powerapps.svg?color=%23742774" width="48" height="48" alt="Power Apps" />
-  &nbsp;&nbsp;
-  <img src="https://api.iconify.design/vscode-icons:file-type-excel.svg" width="48" height="48" alt="Microsoft Excel" />
+  <img src="https://api.iconify.design/carbon:api.svg?color=%230B57D0" width="44" height="44" alt="REST API" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/carbon:sql.svg?color=%23F24E1E" width="44" height="44" alt="SQL" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:powerbi.svg?color=%23F2C811" width="44" height="44" alt="Power BI" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:powerautomate.svg?color=%230066FF" width="44" height="44" alt="Power Automate" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:powerapps.svg?color=%23742774" width="44" height="44" alt="Power Apps" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:microsoftexcel.svg?color=%23217346" width="44" height="44" alt="Microsoft Excel" />
 </p>
 
 </div>
