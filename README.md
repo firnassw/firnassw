@@ -38,12 +38,27 @@ I'm currently exploring **UI/UX Design, Front-End Development, System & Business
 </h2>
 
 <div align="center">
+
+<!-- Web Development & Database -->
 <p>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,laravel,mysql,postgres" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,laravel,mysql" alt="Web Development"/></a>
 </p>
+
+<!-- Tools, Version Control & UI/UX -->
 <p>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma,git,github,vscode,postman" alt="Tools & Design"/></a>
 </p>
+
+<!-- Data Analytics, Automation & API -->
+<p>
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/SQL-F24E1E?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate" />
+  <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" alt="Power Apps" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
+</p>
+
 </div>
 
 <br/>
