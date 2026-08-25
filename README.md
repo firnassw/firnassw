@@ -87,11 +87,6 @@ I'm currently exploring **UI/UX Design, Front-End Development, System & Business
 
 <br/>
 
-## 📊 3D Contribution
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%">
-</p>
 
 
 <!-- ===================== FIND ME ===================== -->
