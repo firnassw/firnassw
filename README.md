@@ -41,35 +41,6 @@ I'm currently exploring **UI/UX Design, Front-End Development, System & Business
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B57D0,100:8B5CF6&height=2" width="100%"/>
 <br/>
 
-<!-- ===================== EXPLORING ===================== -->
-
-<h2>
-<img src="https://api.iconify.design/lucide:compass.svg?color=%230B57D0" width="28" height="28" valign="middle" />
-&nbsp;What I'm Exploring
-</h2>
-
-<br/>
-
-### <img src="https://api.iconify.design/lucide:palette.svg?color=%238B5CF6" width="22" height="22" valign="middle" /> Design
-Creating interfaces that are simple, intuitive, and useful.
-> **UI/UX · Figma · Prototyping · Design Thinking**
-
-### <img src="https://api.iconify.design/lucide:code-2.svg?color=%238B5CF6" width="22" height="22" valign="middle" /> Development
-Building web applications and learning how things work behind the interface.
-> **HTML · CSS · JavaScript · PHP · Laravel**
-
-### <img src="https://api.iconify.design/lucide:chart-pie.svg?color=%238B5CF6" width="22" height="22" valign="middle" /> Analysis
-Understanding problems before jumping into solutions.
-> **System Analysis · Business Analysis · Data · SQL**
-
-### <img src="https://api.iconify.design/lucide:sparkles.svg?color=%238B5CF6" width="22" height="22" valign="middle" /> Digital Products
-Exploring how technology and AI can become meaningful products.
-> **AI · Product Thinking · Automation · Innovation**
-
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B57D0,100:8B5CF6&height=2" width="100%"/>
-<br/>
-
 <!-- ===================== TECH STACK ===================== -->
 
 <h2>
