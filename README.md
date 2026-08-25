@@ -178,14 +178,6 @@ Some of the things I enjoy building and exploring:
   />
 </a>
 
-<a href="https://github.com/firnassw">
-  <img
-    height="180"
-    src="https://streak-stats.demolab.com/?user=firnassw&theme=transparent&hide_border=true"
-    alt="Wahid's GitHub Streak"
-  />
-</a>
-
 <br/>
 
 <a href="https://github.com/firnassw">
