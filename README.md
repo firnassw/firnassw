@@ -171,7 +171,29 @@ Some of the things I enjoy building and exploring:
 <div align="center">
 
 <a href="https://github.com/firnassw">
-  <img src="https://github-readme-stats.vercel.app/api?username=firnassw&show_icons=true&hide_border=true" />
+  <img
+    height="180"
+    src="https://github-readme-stats.shion.dev/api?username=firnassw&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"
+    alt="Wahid's GitHub Stats"
+  />
+</a>
+
+<a href="https://github.com/firnassw">
+  <img
+    height="180"
+    src="https://streak-stats.demolab.com/?user=firnassw&theme=transparent&hide_border=true"
+    alt="Wahid's GitHub Streak"
+  />
+</a>
+
+<br/>
+
+<a href="https://github.com/firnassw">
+  <img
+    height="180"
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=firnassw&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+    alt="Wahid's Top Languages"
+  />
 </a>
 
 </div>
