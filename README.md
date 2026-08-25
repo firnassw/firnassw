@@ -96,32 +96,6 @@ Exploring how technology and AI can become meaningful products.
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B57D0,100:8B5CF6&height=2" width="100%"/>
 <br/>
 
-<!-- ===================== CURRENTLY LEARNING ===================== -->
-
-<h2>
-<img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%230B57D0" width="28" height="28" valign="middle" />
-&nbsp;Currently Learning
-</h2>
-
-<br/>
-
-- **UI/UX Design** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `█████████░░` (Exploring)
-- **Front-End Development** &nbsp;&nbsp;&nbsp; `████████░░░` (Building)
-- **Business Analysis** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `███████░░░░` (Learning)
-- **System Analysis** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `███████░░░░` (Learning)
-- **Product Thinking** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `███████░░░░` (Exploring)
-- **AI & Digital Products** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `██████░░░░░` (Experimenting)
-
-<br/>
-
-<div align="center">
-<b>Learn → Build → Experiment → Improve</b>
-</div>
-
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B57D0,100:8B5CF6&height=2" width="100%"/>
-<br/>
-
 <!-- ===================== PROJECTS ===================== -->
 
 <h2>
