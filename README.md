@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B57D0,100:8B5CF6&height=220&section=header&text=Wahid%20Atsal&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Information%20Systems%20Student%20%7C%20Builder%20%7C%20Explorer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B57D0,100:8B5CF6&height=220&section=header&text=Wahid%20Firnas&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Information%20Systems%20Student%20%7C%20Builder%20%7C%20Explorer&descAlignY=58&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0B57D0&center=true&vCenter=true&width=700&lines=Information+Systems+Student;Exploring+UI%2FUX+%26+Web+Development;Learning+Business+%26+System+Analysis;Building+Digital+Products;Still+Learning.+Still+Building." alt="Typing SVG"/>
 
