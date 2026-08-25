@@ -87,6 +87,10 @@ I'm currently exploring **UI/UX Design, Front-End Development, System & Business
 
 <br/>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/firnassw/firnassw/output/pacman.svg" alt="Pac-Man Contribution Animation"/>
+</div>
+
 <!-- ===================== FIND ME ===================== -->
 
 <h2>
