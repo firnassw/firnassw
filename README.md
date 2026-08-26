@@ -87,7 +87,7 @@ I'm currently exploring **UI/UX Design, Front-End Development, System & Business
 
 <br/>
 
-![Activity Graph](https://raw.githubusercontent.com/{owner}/{repo}/output/activity-graph.svg)
+![Activity Graph](https://raw.githubusercontent.com/firnassw/firnassw/output/activity-graph.svg)
 
 <!-- ===================== FIND ME ===================== -->
 
