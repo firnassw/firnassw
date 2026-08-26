@@ -120,13 +120,3 @@ I'm currently exploring **UI/UX Design, Front-End Development, System & Business
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:0B57D0&height=120&section=footer" width="100%"/>
 
 </div>
-
-
-<!-- PROJECTS:START -->
-- 🚀 [Portofolio](https://github.com/firnassw/Portofolio) — Personal project
-- 🚀 [CampRide](https://github.com/firnassw/CampRide) — Personal project
-- 🚀 [MedikaLab](https://github.com/firnassw/MedikaLab) — Portal web sistem informasi laboratorium medis dan layanan kesehatan untuk mempermudah pengelolaan data pasien, penjadwalan, dan integrasi rekam medis.
-- 🚀 [FM26-ApplicationWebsite](https://github.com/firnassw/FM26-ApplicationWebsite) — Aplikasi web dengan antarmuka bertema Football Manager 2026 (FM26), menampilkan desain UI/UX kustom
-- 🚀 [KostCare](https://github.com/firnassw/KostCare) — Platform digital inovatif untuk memantau kebiasaan sehat mahasiswa rantau (anak kost), dilengkapi dengan fitur pelaporan otomatis untuk orang tua.
-- 🚀 [CodingCamp-23feb26-wahidfirnas](https://github.com/firnassw/CodingCamp-23feb26-wahidfirnas) — Repository mini project coding camp RevoU
-<!-- PROJECTS:END -->
