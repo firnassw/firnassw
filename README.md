@@ -123,10 +123,10 @@ I'm currently exploring **UI/UX Design, Front-End Development, System & Business
 
 
 <!-- PROJECTS:START -->
-- 🚀 [so-american](https://github.com/firnassw/so-american) — ya begitulah
+- 🚀 [meme-handGesturetracker](https://github.com/firnassw/meme-handGesturetracker) — Aplikasi deteksi gestur tangan dan ekspresi wajah bertenaga AI menggunakan OpenCV dan MediaPipe yang menampilkan gambar meme secara dinamis secara real-time.
+- 🚀 [so-american](https://github.com/firnassw/so-american) — Pemutar musik interaktif dengan audio visualizer ASCII dan lirik lagu dinamis.
 - 🚀 [CampRide](https://github.com/firnassw/CampRide) — Personal project
 - 🚀 [Portofolio](https://github.com/firnassw/Portofolio) — Website portofolio pribadi modern berbasis Next.js yang dilengkapi dengan sistem kustom otomatisasi skrip dan optimasi SEO
 - 🚀 [MedikaLab](https://github.com/firnassw/MedikaLab) — Portal web sistem informasi laboratorium medis dan layanan kesehatan untuk mempermudah pengelolaan data pasien, penjadwalan, dan integrasi rekam medis.
 - 🚀 [FM26-ApplicationWebsite](https://github.com/firnassw/FM26-ApplicationWebsite) — Aplikasi web dengan antarmuka bertema Football Manager 2026 (FM26), menampilkan desain UI/UX kustom
-- 🚀 [KostCare](https://github.com/firnassw/KostCare) — Platform digital inovatif untuk memantau kebiasaan sehat mahasiswa rantau (anak kost), dilengkapi dengan fitur pelaporan otomatis untuk orang tua.
 <!-- PROJECTS:END -->
