@@ -123,10 +123,10 @@ I'm currently exploring **UI/UX Design, Front-End Development, System & Business
 
 
 <!-- PROJECTS:START -->
+- 🚀 [Student-Command-Center-TESTING](https://github.com/firnassw/Student-Command-Center-TESTING) — Personal project
 - 🚀 [CampRide](https://github.com/firnassw/CampRide) — Personal project
 - 🚀 [Student-Command-Center](https://github.com/firnassw/Student-Command-Center) — Student Command Center adalah PWA manajemen akademik personal mahasiswa. Aplikasi ini mengubah pengecekan jadwal dan absensi manual menjadi alur proaktif melalui notifikasi pintar, pencatatan otomatis, dan dasbor harian mobile-first yang bebas disrupsi.
 - 🚀 [latihan-1](https://github.com/firnassw/latihan-1) — Personal project
 - 🚀 [meme-handGesturetracker](https://github.com/firnassw/meme-handGesturetracker) — Aplikasi deteksi gestur tangan dan ekspresi wajah bertenaga AI menggunakan OpenCV dan MediaPipe yang menampilkan gambar meme secara dinamis secara real-time.
 - 🚀 [so-american](https://github.com/firnassw/so-american) — Pemutar musik interaktif dengan audio visualizer ASCII dan lirik lagu dinamis.
-- 🚀 [Portofolio](https://github.com/firnassw/Portofolio) — Website portofolio pribadi modern berbasis Next.js yang dilengkapi dengan sistem kustom otomatisasi skrip dan optimasi SEO
 <!-- PROJECTS:END -->
