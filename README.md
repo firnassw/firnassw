@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=5000&pause=2000&color=0B57D0&center=true&vCenter=true&width=700&lines=Information+Systems+Student;Exploring+UI%2FUX+%26+Web+Development;Learning+Business+%26+System+Analysis;Building+Digital+Products;Still+Learning.+Still+Building." alt="Typing SVG"/>
 
 <br/>
-<a href="https://wahid-firnas.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-0B57D0?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://wahid-firnas.my.id"><img src="https://img.shields.io/badge/Portfolio-Visit-0B57D0?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/wahid-firnas/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
