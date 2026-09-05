@@ -123,10 +123,10 @@ I'm currently exploring **UI/UX Design, Front-End Development, System & Business
 
 
 <!-- PROJECTS:START -->
+- 🚀 [Portofolio](https://github.com/firnassw/Portofolio) — Website portofolio personal yang modern, interaktif, dan responsif. Dibangun menggunakan Next.js, React, Tailwind CSS, dan Framer Motion. Menampilkan proyek, keahlian, dan pengalaman profesional dengan UI/UX dan animasi yang mulus serta optimasi SEO
+- 🚀 [Student-Command-Center-TESTING](https://github.com/firnassw/Student-Command-Center-TESTING) — Modul uji coba dan implementasi Web Push Notifications berbasis Service Worker (PWA) yang terintegrasi dengan arsitektur database Supabase PostgreSQL untuk aplikasi Student Command Center.  
 - 🚀 [Student-Command-Center](https://github.com/firnassw/Student-Command-Center) — Aplikasi manajemen akademik berbasis PWA yang mengintegrasikan jadwal, presensi, tugas, deadline, catatan, work plan, dan proyek mahasiswa.
-- 🚀 [meme-handGesturetracker](https://github.com/firnassw/meme-handGesturetracker) — Aplikasi deteksi gestur tangan dan ekspresi wajah bertenaga AI menggunakan OpenCV dan MediaPipe yang menampilkan gambar dan video dinamis secara real-time.
-- 🚀 [Student-Command-Center-TESTING](https://github.com/firnassw/Student-Command-Center-TESTING) — Personal project
-- 🚀 [CampRide](https://github.com/firnassw/CampRide) — Personal project
-- 🚀 [latihan-1](https://github.com/firnassw/latihan-1) — Personal project
+- 🚀 [FM26-ApplicationWebsite](https://github.com/firnassw/FM26-ApplicationWebsite) — Aplikasi web dengan antarmuka bertema Football Manager 2026 (FM26), menampilkan desain UI/UX kustom
 - 🚀 [so-american](https://github.com/firnassw/so-american) — Pemutar musik interaktif dengan audio visualizer ASCII dan lirik lagu dinamis.
+- 🚀 [Sistem-Manajemen-Ticket-Konser](https://github.com/firnassw/Sistem-Manajemen-Ticket-Konser) — Sistem manajemen tiket konser berbasis CLI dalam C++ yang mengimplementasikan struktur data dinamis (Linked List, Queue, Stack) serta algoritma searching dan sorting untuk pengelolaan data, antrean berbasis FIFO, dan pembatalan transaksi (undo).
 <!-- PROJECTS:END -->
