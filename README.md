@@ -123,8 +123,8 @@ I'm currently exploring **UI/UX Design, Front-End Development, System & Business
 
 
 <!-- PROJECTS:START -->
-- 🚀 [Student-Command-Center](https://github.com/firnassw/Student-Command-Center) — Aplikasi manajemen akademik berbasis PWA yang mengintegrasikan jadwal, presensi, tugas, deadline, catatan, work plan, dan proyek mahasiswa.
 - 🚀 [Portofolio](https://github.com/firnassw/Portofolio) — Website portofolio personal yang modern, interaktif, dan responsif. Dibangun menggunakan Next.js, React, Tailwind CSS, dan Framer Motion. Menampilkan proyek, keahlian, dan pengalaman profesional dengan UI/UX dan animasi yang mulus serta optimasi SEO
+- 🚀 [Student-Command-Center](https://github.com/firnassw/Student-Command-Center) — Aplikasi manajemen akademik berbasis PWA yang mengintegrasikan jadwal, presensi, tugas, deadline, catatan, work plan, dan proyek mahasiswa.
 - 🚀 [Student-Command-Center-TESTING](https://github.com/firnassw/Student-Command-Center-TESTING) — Modul uji coba dan implementasi Web Push Notifications berbasis Service Worker (PWA) yang terintegrasi dengan arsitektur database Supabase PostgreSQL untuk aplikasi Student Command Center.  
 - 🚀 [FM26-ApplicationWebsite](https://github.com/firnassw/FM26-ApplicationWebsite) — Aplikasi web dengan antarmuka bertema Football Manager 2026 (FM26), menampilkan desain UI/UX kustom
 - 🚀 [so-american](https://github.com/firnassw/so-american) — Pemutar musik interaktif dengan audio visualizer ASCII dan lirik lagu dinamis.
