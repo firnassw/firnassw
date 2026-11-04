@@ -130,6 +130,4 @@ I'm currently exploring \*\*UI/UX Design, Front-End Development, System & Busine
 \- 🚀 [FM26-ApplicationWebsite]\(https\://github.com/firnassw/FM26-ApplicationWebsite) — Aplikasi web dengan antarmuka bertema Football Manager 2026 (FM26), menampilkan desain UI/UX kustom\
 \- 🚀 [so-american]\(https\://github.com/firnassw/so-american) — Pemutar musik interaktif dengan audio visualizer ASCII dan lirik lagu dinamis.\
 \<!-- PROJECTS:END -->
-
-
-
+\
