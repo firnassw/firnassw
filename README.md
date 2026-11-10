@@ -163,10 +163,10 @@ I'm currently exploring **UI/UX Design, Front-End Development, System & Business
 </div>
 
 <!-- PROJECTS:START -->
+- 🚀 [Asisten-Praktikum-Jarkom](https://github.com/firnassw/Asisten-Praktikum-Jarkom) — Personal project
 - 🚀 [Student-Command-Center](https://github.com/firnassw/Student-Command-Center) — Aplikasi manajemen akademik berbasis PWA yang mengintegrasikan jadwal, presensi, tugas, deadline, catatan, work plan, dan proyek mahasiswa.
 - 🚀 [Portofolio](https://github.com/firnassw/Portofolio) — Website portofolio personal yang modern, interaktif, dan responsif. Dibangun menggunakan Next.js, React, Tailwind CSS, dan Framer Motion. Menampilkan proyek, keahlian, dan pengalaman profesional dengan UI/UX dan animasi yang mulus serta optimasi SEO
 - 🚀 [FuzzySpot](https://github.com/firnassw/FuzzySpot) — Aplikasi Fuzzy Inference untuk Pemilihan Tempat Nongkrong. Mengimplementasikan dan membandingkan 3 metode (Tsukamoto, Sugeno, Mamdani) berbasis Python & Streamlit dengan antarmuka interaktif dan transparan
-- 🚀 [Asisten-Praktikum-Jarkom](https://github.com/firnassw/Asisten-Praktikum-Jarkom) — Personal project
 - 🚀 [Student-Command-Center-TESTING](https://github.com/firnassw/Student-Command-Center-TESTING) — Modul uji coba dan implementasi Web Push Notifications berbasis Service Worker (PWA) yang terintegrasi dengan arsitektur database Supabase PostgreSQL untuk aplikasi Student Command Center.  
 - 🚀 [FM26-ApplicationWebsite](https://github.com/firnassw/FM26-ApplicationWebsite) — Aplikasi web dengan antarmuka bertema Football Manager 2026 (FM26), menampilkan desain UI/UX kustom
 <!-- PROJECTS:END -->
